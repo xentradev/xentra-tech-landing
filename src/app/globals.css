@@ -1,0 +1,68 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(
+      to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))
+    )
+    rgb(var(--background-start-rgb));
+}
+
+.mui-vnkopk-MuiStepLabel-iconContainer {
+  padding-right: 0px !important;
+}
+
+.mui-opt7yd-MuiStepIcon-text {
+  fill: transparent !important;
+}
+
+.mui-1ryurnl-MuiGrid-root {
+  padding: 20px !important;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+/* Sobrescribe el fondo del date-picker */
+.react-date-picker {
+  background-color: black; /* Cambia el color de fondo del date-picker */
+}
+
+/* Sobrescribe el fondo del contenedor del date-picker */
+.react-date-picker__wrapper {
+  background-color: black; /* Cambia el color de fondo del wrapper */
+}
+
+/* Sobrescribe el fondo del calendario */
+.react-calendar {
+  background-color: black; /* Cambia el color de fondo del calendario */
+}
+
+/* Sobrescribe el fondo de los tiles del calendario (los días) */
+.react-calendar__tile {
+  background-color: black; /* Cambia el color de fondo de los tiles */
+}
+.react-date-picker__button:enabled {
+  background-color: white;
+}

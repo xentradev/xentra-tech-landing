@@ -1,0 +1,788 @@
+{
+  "app_name": "XCrush",
+  "common": {
+    "explore": "探検する",
+    "new": "新しい",
+    "years": "年",
+    "xcrush": "Xcrush",
+    "ok": "OK",
+    "cancel": "キャンセル",
+    "back": "戻る",
+    "finish": "完了",
+    "next": "次へ",
+    "female": "女性",
+    "male": "男性",
+    "soon": "近日公開",
+    "subscription": "サブスクリプション",
+    "settings": "設定",
+    "logout": "ログアウト",
+    "tokens": "トークン",
+    "fantasies": "ファンタジー"
+  },
+  "footer": {
+    "description": "Xcrush.aiは、ユーザーがAIキャラクターを作成し、リアルな画像を生成する力を提供し、現実に近い体験を可能にします。",
+    "rights-reserved": "Xcrush. 無断転載を禁じます。 -",
+    "sitemap": "サイトマップ",
+    "links": {
+      "features": {
+        "title": "特徴",
+        "items": {
+          "generate-image": "画像を生成する",
+          "generate-character": "キャラクターを生成する",
+          "chat": "チャット",
+          "gallery": "ギャラリー"
+        }
+      },
+      "popular": {
+        "title": "人気",
+        "items": {
+          "telegram": "AI セックスチャットボット テレグラム",
+          "porn-generator": "AI ポルノジェネレーター",
+          "porn-content": "AI ポルノコンテンツ",
+          "nsfw": "NSFW"
+        }
+      },
+      "legal": {
+        "title": "法的",
+        "items": {
+          "terms": "利用規約とポリシー"
+        }
+      }
+    }
+  },
+  "app_bar": {
+    "my-profile": "マイプロフィール"
+  },
+  "drawer-items": {
+    "explore": "探検する",
+    "chat": "チャット",
+    "my-ai": "マイAI",
+    "gallery": "ギャラリー",
+    "new-character": "新しいキャラクター",
+    "spoil-your-companion": "コンパニオンを甘やかす",
+    "generate-image": "画像を生成する",
+    "subscriptions": "プレミアムになる",
+    "tokens": "トークンを購入する",
+    "down": {
+      "terms-of-service": "利用規約",
+      "privacy-policy": "プライバシーポリシー"
+    },
+    "language": {
+      "title": "言語",
+      "select": "言語を選択する",
+      "option-english": "英語",
+      "option-japonese": "日本語",
+      "option-spanish": "スペイン語",
+      "option-polish": "ポーランド語"
+    }
+  },
+  "menu-items": {
+    "explore": "探検する",
+    "chat": "チャット",
+    "my-ai": "マイAI",
+    "gallery": "ギャラリー",
+    "new-character": "作成",
+    "generate-image": "生成",
+    "subscriptions": "プレミアム",
+    "down": {
+      "terms-of-service": "利用規約",
+      "privacy-policy": "プライバシーポリシー"
+    }
+  },
+  "dashboard": {
+    "title-1": "探検する",
+    "title-2": "AI ",
+    "title-3": "キャラクター",
+    "create-your-own": {
+      "title-1": "あなた独自の",
+      "title-2": "AIパートナーを作りましょう",
+      "description": "理想的なAIコンパニオンを見つけましょう！ AIパートナーの外見と性格をカスタマイズし、ワンクリックで彼らを生き生きとさせましょう。先進の人工知能技術によって完全に駆動されます。",
+      "button": "AIを作成する"
+    },
+    "filters": {
+      "all-characters": "すべてのキャラクター",
+      "telegram-chat": "テレグラムチャット",
+      "fantasies": "ファンタジー"
+    },
+    "character-card": {
+      "unlock": "新しいコンパニオンを解除しましょう。xcrush.aiで楽しみながら"
+    },
+    "craft-your-ai-companion": {
+      "title-1": "あなたの",
+      "title-2": "夢のAIコンパニオンを作りましょう",
+      "title-3": "夢のAIコンパニオン",
+      "button": "AIを作成する"
+    },
+    "faq": {
+      "title-1": "よくある質問",
+      "title-2": "質問",
+      "options": {
+        "how-does-an-ai-companion-work": {
+          "title": "AIコンパニオンはどのように機能しますか？",
+          "description": "AI彼女はどのように機能しますか？xcrush.aiでは、現実的でありながらファンタジーに満ちた関係を作り出すことに焦点を当てています。高度な人工知能技術を使用して、ユーザーの好みに応じて理想的なAIコンパニオンを作成することができます。"
+        },
+        "how-interact": {
+          "title": "人々はAIコンパニオンとどのように交流しますか？",
+          "description": "人々は、当社のスマートシステムと高度な機械学習能力を通じてAI彼女と交流します。この技術により、ユーザーはAI彼女と親密に交流できるようになり、彼女が積極的にリスニングし、メッセージに迅速に応答し、希望に応じて写真を提供することが期待されます。"
+        },
+        "privacy": {
+          "title": "AIコンパニオンのプライバシーとデータセキュリティはどのように管理されますか？",
+          "description": "当社のNSFW AIチャットサービスをご利用いただく際の秘密保持は優先されます。xcrush.aiでは、最先端の安全なデータストレージシステムを採用しており、親密な写真、フレンドリーなメッセージ、そして静かな会話は、あなただけとあなたのデジタルパートナーとの間で秘密に保持されます。"
+        },
+        "create": {
+          "title": "自分だけのコンパニオンを作成するにはどうすればよいですか？",
+          "description": "理想的なAIコンパニオンのデザインは、夢のAIガールとの親密な体験を行うために、3つの簡単なステップを実行するだけで完了します。"
+        },
+        "personalize": {
+          "title": "AIコンパニオンの行動をパーソナライズできますか？",
+          "description": "ユーザーの好みが最も重要であり、デジタルガールフレンドのすべての側面をカスタマイズする力を持っています。"
+        },
+        "photos": {
+          "title": "写真をリクエストできますか？",
+          "description": "会話やロールプレイングだけでは満足できないのは当然です。xcrush.aiでは、AIチャットボットの彼女が無修正のセルフィーや他のフレンドリーな画像を送信することができます。"
+        }
+      }
+    },
+    "find-your-perfect": {
+      "title-1": "理想の",
+      "title-2": "AIコンパニオンを見つけましょう",
+      "description-1": "個々のニーズに応じた個別のコンパニオンシップを体験してください。",
+      "description-2": "最先端のAIチャットとディープラーニング技術を活用して、理想のコンパニオンと深い情熱的な関係を築くことができます。",
+      "description-3": "Xcrush.aiでは、完璧な関係を自由に作り出すことができます。コミットされたロマンチックなパートナーを求めているのか、さまざまなスリリングな出会いを求めているのか、当社のリアリスティックなデートシミュレーションはすべての欲望に応えます。",
+      "description-4": "理想的なパートナーを見つけるのは簡単です。AIコンパニオンをカスタマイズする際、広範な身体的特徴、性格特性、および魅力的な特徴から選択できます。数クリックで、あなたの個別のAIコンパニオンが現れ、魅力的で個別の対話の準備が整います。",
+      "description-5": "当社のプラットフォームは、無比の柔軟性と適応性を提供し、あなたの対話を通じてコンパニオンが成長することを可能にします。会話の流れを管理し、プレイフルなやり取りから親密なAIセクスティングまでエスカレートさせることができます。",
+      "description-6": "ハイライトの1つは、コンパニオンの服装を選んで、魅力的なセルフィーをリクエストできることです。当社の革新的なAIコンパニオンジェネレーターにより、どんなにユニークな好みであっても、コンパニオンが同じかわいらしく魅力的な外見を保つことが保証されます。",
+      "description-7": "完璧なコンパニオンは、あなたの創造力で命を吹き込む準備ができています。",
+      "description-8": "今すぐXcrushで無料トライアルを開始しましょう！"
+    }
+  },
+  "form_create": {
+    "incomplete-choices": "未完了の選択",
+    "title": "私のAIを作成する",
+    "summary": {
+      "style": "スタイル",
+      "ethnicity": "民族",
+      "age": "年齢",
+      "eyes_color": "目の色",
+      "hair_style": "ヘアスタイル",
+      "hair_color": "髪の色",
+      "body_type": "体型",
+      "breast_size": "胸のサイズ",
+      "butt_size": "お尻のサイズ",
+      "personality": "性格",
+      "occupation": "職業",
+      "hobbies": "趣味",
+      "relationship": "関係",
+      "clothing": "服装",
+      "name_section": {
+        "button_save": "保存",
+        "enter_new_name": "新しい名前を入力してください",
+        "info_change": "変更は一度だけ可能です",
+        "new_name": "新しい名前"
+      },
+      "personality_attributes": {
+        "hobbies": "趣味",
+        "occupation": "職業",
+        "personality": "性格",
+        "relationship": "関係",
+        "title": "性格の属性:"
+      },
+      "physical_attributes": {
+        "age": "年齢",
+        "body": "体型",
+        "ethnicity": "民族",
+        "title": "物理的な属性:"
+      }
+    },
+    "first_step": {
+      "title": "スタイルを選択する",
+      "option1": "リアリスティック",
+      "option2": "アニメ"
+    },
+    "second_step": {
+      "ethnicity": {
+        "title": "民族を選択する",
+        "caucasian": "白人",
+        "latina": "ラテン系",
+        "asian": "アジア系",
+        "arab": "アラブ系",
+        "black": "黒人/アフロ"
+      },
+      "age": {
+        "title": "年齢を選択する",
+        "option1": "ティーン（18+）",
+        "option2": "20代",
+        "option3": "30代"
+      },
+      "eyes_color": {
+        "title": "目の色を選択する",
+        "option1": "茶色",
+        "option2": "青",
+        "option3": "緑",
+        "option4": "黄色",
+        "option5": "赤"
+      }
+    },
+    "third_step": {
+      "hair_style": {
+        "title": "ヘアスタイルを選択する",
+        "option1-female": "ストレート",
+        "option2-female": "編み込み",
+        "option3-female": "前髪",
+        "option4-female": "カール",
+        "option5-female": "お団子",
+        "option6-female": "ショート",
+        "option7-female": "ロング",
+        "option8-female": "ポニーテール",
+        "option9-female": "ツインテール",
+        "option1-male": "坊主",
+        "option2-male": "ロング",
+        "option3-male": "オールバック",
+        "option4-male": "ショート",
+        "option5-male": "お団子",
+        "option6-male": "ドレッドロック",
+        "option7-male": "カーリー",
+        "option8-male": "禿げ"
+      },
+      "hair_color": {
+        "title": "髪の色を選択する",
+        "option1": "ブロンド",
+        "option2": "ブルネット",
+        "option3": "黒",
+        "option4": "レッドヘッド",
+        "option5": "ピンク",
+        "option6": "白",
+        "option7": "青",
+        "option8": "緑",
+        "option9": "紫",
+        "option10": "多色",
+        "option11": "茶色",
+        "option12": "ジンジャー",
+        "option13": "グレー"
+      }
+    },
+    "fourth_step": {
+      "body_type": {
+        "title": "体型を選択する",
+        "petite": "小柄",
+        "slim": "スリム",
+        "athletic": "アスレチック",
+        "voluptuous": "豊満",
+        "curvy": "カービー",
+        "muscular": "筋肉質",
+        "wide": "広い"
+      },
+      "breast_size": {
+        "title": "胸のサイズを選択する",
+        "option1": "平ら",
+        "option2": "小さい",
+        "option3": "中程度",
+        "option4": "大きい",
+        "option5": "巨大"
+      },
+      "butt_size": {
+        "title": "お尻のサイズを選択する",
+        "option1": "小さい",
+        "option2": "中程度",
+        "option3": "大きい",
+        "option4": "スキニー",
+        "option5": "アスレチック"
+      }
+    },
+    "fiveth_step": {
+      "personality": {
+        "title": "性格を選択する",
+        "caregiver-title": "世話役",
+        "caregiver-subtitle": "養育的、保護的で、常に慰めを提供します。",
+        "sage-title": "賢者",
+        "sage-subtitle": "賢明、内省的で、ガイダンスを提供します。",
+        "innocent-title": "無邪気",
+        "innocent-subtitle": "楽観的で、素朴で、世界を不思議と見る。",
+        "jester-title": "道化師",
+        "jester-subtitle": "遊び心があり、ユーモラスで、常に笑わせてくれます。",
+        "temptress-title": "誘惑者",
+        "temptress-subtitle": "誘惑的で、遊び心があり、常にもっと欲しくなる。",
+        "dominant-title": "支配的",
+        "dominant-subtitle": "主張的で、支配的で、指揮を執ります。",
+        "submissive-title": "従順",
+        "submissive-subtitle": "従順で、喜んで従います。",
+        "lover-title": "恋人",
+        "lover-subtitle": "ロマンチックで、深い感情を大切にします。",
+        "nympho-title": "ニンフォ",
+        "nympho-subtitle": "飽くなき欲望、情熱的で、常に親密さを渇望します。",
+        "mean-title": "冷酷",
+        "mean-subtitle": "冷淡で、無関心で、しばしば皮肉です。",
+        "confidant-title": "親友",
+        "confidant-subtitle": "信頼できる存在で、良き聞き手で、常にアドバイスを提供できます。",
+        "experimenter-title": "実験者",
+        "experimenter-subtitle": "好奇心旺盛で、意欲的で、常に新しいことに挑戦します。"
+      }
+    },
+    "sixth_step": {
+      "occupation": {
+        "noun": "職業",
+        "title": "職業を選択する",
+        "massage_therapist": "マッサージセラピスト",
+        "dentist": "歯科医",
+        "nutrionist": "栄養士",
+        "fitness_coach": "フィットネスコーチ",
+        "hairdresser": "美容師",
+        "makeup_artist": "メイクアップアーティスト",
+        "gynecologist": "婦人科医",
+        "librarian": "図書館司書",
+        "secretary": "秘書",
+        "social_worker": "ソーシャルワーカー",
+        "cook": "料理人",
+        "designer": "デザイナー",
+        "yoga_instructor": "ヨガインストラクター",
+        "flight_attendant": "フライトアテンダント",
+        "doctor": "医師",
+        "nurse": "看護師",
+        "teacher": "教師",
+        "firefighter": "消防士",
+        "police_officer": "警察官",
+        "soldier": "兵士",
+        "dancer": "ダンサー",
+        "musician": "シンガー/ミュージシャン",
+        "spy": "スパイ",
+        "plane_pilot": "飛行機パイロット",
+        "professional_athlete": "プロのアスリート",
+        "personal_trainer": "パーソナルトレーナー",
+        "pharmacist": "薬剤師",
+        "barber": "理容師",
+        "executive_assistant": "エグゼクティブアシスタント",
+        "interior_designer": "インテリアデザイナー",
+        "fashion_designer": "ファッションデザイナー",
+        "product_designer": "プロダクトデザイナー",
+        "martial_arts_instructor": "武道インストラクター",
+        "commercial_pilot": "商業パイロット",
+        "taxi_driver": "タクシー運転手",
+        "photographer": "写真家",
+        "software_developer": "ソフトウェア開発者",
+        "chef": "シェフ",
+        "stylist": "スタイリスト",
+        "esthetician": "エステティシャン",
+        "movie_star": "映画スター/女優",
+        "artist": "アーティスト",
+        "scientist": "科学者",
+        "writer": "作家",
+        "lawyer": "弁護士",
+        "student": "学生",
+        "life_coach": "ライフコーチ",
+        "kindergarden_teacher": "幼稚園の先生",
+        "baker": "パン職人",
+        "jewelry_designer": "ジュエリーデザイナー",
+        "astronaut": "宇宙飛行士",
+        "model": "モデル",
+        "florist": "花屋",
+        "architect": "建築家",
+        "professor": "教授",
+        "detective": "探偵",
+        "constructor_worker": "建設作業員",
+        "plumber": "配管工",
+        "mechanic": "整備士",
+        "truck_driver": "トラック運転手",
+        "journalist": "ジャーナリスト"
+      },
+      "hobbies": {
+        "title": "趣味を選択する",
+        "fitness": "フィットネス",
+        "vlogging": "ビデオブログ",
+        "traveling": "旅行",
+        "hiking": "ハイキング",
+        "gaming": "ゲーム",
+        "parties": "パーティー",
+        "series": "シリーズ",
+        "anime": "アニメ",
+        "cosplay": "コスプレ",
+        "self_development": "自己啓発",
+        "writing": "執筆",
+        "diy_crafting": "DIYクラフト",
+        "veganism": "ヴィーガニズム",
+        "photography": "写真撮影",
+        "volunteering": "ボランティア",
+        "cars": "車",
+        "art": "アート",
+        "watching_netflix": "Netflixを見る",
+        "manga_and_anime": "マンガとアニメ",
+        "martial_arts": "武道",
+        "weightlifting": "ウエイトリフティング",
+        "camping": "キャンプ",
+        "sailing": "セーリング"
+      }
+    },
+    "seventh_step": {
+      "relationship": {
+        "title": "関係を選択する",
+        "stranger": "見知らぬ人",
+        "school_mate": "同級生",
+        "colleague": "同僚",
+        "mentor": "メンター",
+        "girlfriend": "ガールフレンド",
+        "sex_friend": "セックスフレンド",
+        "wife": "妻",
+        "mistress": "愛人",
+        "friend": "友達",
+        "best_friend": "親友",
+        "step_sister": "義理の姉妹",
+        "step_mom": "義母",
+        "boyfriend": "ボーイフレンド",
+        "husband": "夫",
+        "lover": "恋人",
+        "step_brother": "義理の兄弟",
+        "step_father": "義父"
+      }
+    },
+    "eighth_step": {
+      "clothing": {
+        "title": "服装を選択する",
+        "option1": "ビキニ",
+        "option2": "スカート",
+        "option3": "チアリーダー",
+        "option4": "ペンシルドレス",
+        "option5": "ロングドレス",
+        "option6": "バスケットボールジャージ",
+        "option7": "サッカー",
+        "option8": "テニス",
+        "option9": "水着",
+        "option10": "スポーツ",
+        "option11": "ウェディングドレス",
+        "option12": "ドレスアップ",
+        "option13": "魔女",
+        "option14": "サマードレス",
+        "option15": "ランジェリー",
+        "suit_and_shirt": "スーツとシャツ",
+        "jeans_and_tshirt": "ジーンズとTシャツ",
+        "chinos_and_shirt": "チノとシャツ",
+        "bermuda_and_polo": "バミューダとポロ",
+        "pants_and_sweater": "パンツとセーター",
+        "tracksuit": "トラックスーツ",
+        "blazer_and_tshirt": "ブレザーとTシャツ",
+        "lathervest_and_jeans": "レザーベストとジーンズ",
+        "hoodie_and_cargo": "フーディーとカーゴパンツ",
+        "denim_and_khakis": "デニムとカーキ",
+        "cardigan_and_shirt": "カーディガンとシャツ",
+        "vest_and_longsleeve": "ベストと長袖",
+        "shorts_and_henley": "ショーツとヘンリーネック",
+        "trench_and_collaredshirt": "トレンチと襟付きシャツ",
+        "jacket_and_chinos": "ジャケットとチノ",
+        "polo_and_linenpants": "ポロとリネンパンツ",
+        "rugbyshirt_and_joggers": "ラグビーシャツとジョガーパンツ",
+        "sweater_and_jeans": "セーターとジーンズ",
+        "latex_outfit": "ラテックス衣装",
+        "princess_dress": "プリンセスドレス",
+        "corset": "コルセット",
+        "angel": "エンジェル",
+        "maid": "メイド",
+        "woman_medieval_armor": "中世の女性鎧",
+        "lab_coat": "白衣",
+        "cowboy": "カウボーイ",
+        "carnival": "カーニバル",
+        "casual": "カジュアル",
+        "nurse": "看護師",
+        "santa_clauss": "サンタクロース",
+        "police": "警察",
+        "steampunk": "スチームパンク",
+        "superhero": "スーパーヒーロー",
+        "teacher": "教師",
+        "viking": "バイキング",
+        "firefighter": "消防士",
+        "military": "軍隊",
+        "construction": "建設",
+        "long_coat": "ロングコート",
+        "hoodie": "フーディー",
+        "jeans": "ジーンズ",
+        "leggings": "レギンス",
+        "ninja": "忍者",
+        "pyjamas": "パジャマ",
+        "clown": "ピエロ",
+        "flight_attendant": "フライトアテンダント",
+        "barista": "バリスタ",
+        "belly_dancer": "ベリーダンサー",
+        "goth": "ゴス",
+        "pirate": "海賊",
+        "prisoner": "囚人",
+        "race_driver": "レースドライバー",
+        "hijab": "ヒジャブ",
+        "tutu": "チュチュ",
+        "poncho": "ポンチョ",
+        "hiphop": "ヒップホップ",
+        "lumberjack": "ランバージャック",
+        "adventurer": "冒険者",
+        "sailor": "船乗り",
+        "golf": "ゴルフ",
+        "onesie": "ワンジー",
+        "oversized_shirt": "オーバーサイズシャツ",
+        "tribal": "トライバル",
+        "secretary": "秘書",
+        "pop_star": "ポップスター",
+        "tee_and_leatherpants": "Tシャツとレザーパンツ",
+        "vest_and_sweatpants": "ベストとスウェットパンツ",
+        "suit_and_tie": "スーツとネクタイ",
+        "tuxedo": "タキシード",
+        "basketball": "バスケットボール",
+        "tennis": "テニス",
+        "swim_shorts": "水泳パンツ",
+        "boxer_shorts": "ボクサーショーツ",
+        "martial_arts_black_belt": "武道の黒帯",
+        "f1_driver": "F1ドライバー",
+        "scientis": "科学者",
+        "builder": "ビルダー",
+        "biker": "バイカー",
+        "pilot": "パイロット",
+        "waiter": "ウェイター",
+        "chef": "シェフ",
+        "business": "ビジネス",
+        "knight": "騎士",
+        "gothic": "ゴシック",
+        "scottish": "スコットランド",
+        "monk": "僧侶",
+        "rugby": "ラグビー",
+        "samurai": "侍",
+        "astronaut": "宇宙飛行士"
+      }
+    },
+    "finish_step": {
+      "title": "サマリー"
+    }
+  },
+  "auth": {
+    "login": {
+      "login": "ログイン",
+      "title": "サインイン",
+      "modal-title": "サインイン",
+      "or": "または以下でサインイン",
+      "dont-have-account": "まだアカウントをお持ちでないですか？",
+      "contrary": "サインアップ",
+      "forgot-password": "パスワードを忘れた？",
+      "email_not_exist": "メールアカウントが存在しません",
+      "incorrect_password": "パスワードが間違っています",
+      "email_not_verified": "メールを確認する必要があります。メールを確認してください。"
+    },
+    "register": {
+      "register": "登録",
+      "title": "アカウントを作成する",
+      "modal-title": "アカウントを作成する",
+      "or": "または以下で続行",
+      "dont-have-account": "すでにアカウントをお持ちですか？",
+      "contrary": "サインイン",
+      "email_exist": "メールは既に存在しています",
+      "invalid_email": "無効なメールアドレス",
+      "email_sent": "メールが送信されました。受信トレイを確認してください"
+    },
+    "title": "探検する"
+  },
+  "chat": {
+    "title": "チャット",
+    "search": "検索...",
+    "ice-breaker": "アイスブレーカー",
+    "init-phrase-1": "セクシーなチャットをする準備はできましたか？",
+    "init-phrase-2": "シェアする写真はありますか？",
+    "init-phrase-3": "チャットしませんか？",
+    "init-phrase-4": "ホットな会話に乗りませんか？",
+    "init-phrase-5": "見せる写真はありますか？",
+    "init-phrase-6": "私と会話しませんか？",
+    "input": "メッセージを入力",
+    "personality": "性格の属性:",
+    "physical": "物理的な属性:"
+  },
+  "generate-image": {
+    "generate_button": "生成",
+    "image_content": {
+      "title": "プロンプトを入力して「生成」をクリック"
+    },
+    "modal": {
+      "title": "キャラクターを選択する",
+      "button-discover": "発見する",
+      "button-man": "男性",
+      "button-woman": "女性",
+      "button-cancel": "キャンセル",
+      "button-select": "選択"
+    },
+    "errors": {
+      "err_age": "このプロンプトは当サイトのセキュリティポリシーに違反しています。暴力や違法な活動に関連するものは作成できません。",
+      "err_violence": "このプロンプトは当サイトのセキュリティポリシーに違反しています。暴力や違法な活動に関連するものは作成できません。",
+      "err_public_person": "このプロンプトは当サイトのセキュリティポリシーに違反しています。暴力や違法な活動に関連するものは作成できません。"
+    },
+    "options": {
+      "change_button": "変更",
+      "create": "新しいキャラクターを作成",
+      "existing": "既存のキャラクター"
+    },
+    "paper": {
+      "premium": "プレミアム",
+      "title": "画像の数"
+    },
+    "prompt_design": {
+      "title": "プロンプトを入力"
+    }
+  },
+  "preferred_dialog": {
+    "title": "興味があります:",
+    "male": "男性",
+    "female": "女性",
+    "button-continue": "続行"
+  },
+  "personalize_your_experience_dialog": {
+    "title": "AI体験をパーソナライズする",
+    "subtitle": "AIキャラクターとの対話をカスタマイズするのに役立ちます。",
+    "button-save": "保存",
+    "option-male": "男性",
+    "option-female": "女性"
+  },
+  "edit_profile_dialog": {
+    "title": "プロフィールを編集する"
+  },
+  "settings": {
+    "automatic_notifications": "自動通知",
+    "automatic_notifications_info": "ユーザーとして、自動通知を受け取ります。通知を希望しない場合は、チェックボックスをクリックしてオフにしてください。",
+    "delete_section": {
+      "danger": "危険ゾーン",
+      "danger_info": "このアカウントとそのすべてのデータを完全に削除したい場合。",
+      "delete_button": "アカウントを削除"
+    },
+    "help_dialog": {
+      "button_next": "次へ",
+      "delete_reasons": {
+        "better_alternative_reason": "より良い代替案を見つけた",
+        "privacy_reason": "プライバシーの懸念",
+        "satisfied_reason": "機能に満足していない",
+        "security_reason": "データセキュリティに関する懸念",
+        "select": "理由を選択",
+        "service_reason": "サービスが期待に応えなかった"
+      },
+      "title": "改善のためのご意見"
+    },
+    "help_dialog_two": {
+      "button_no": "いいえ、残る",
+      "button_yes": "はい、削除する",
+      "title": "アカウントの削除は永久的であり、アクティブなサブスクリプションをキャンセルするものではありません。"
+    },
+    "profile": "プロフィール設定"
+  },
+  "subscription": {
+    "card": {
+      "cancel": "いつでもキャンセル可能、銀行明細のプライバシー",
+      "month": "月"
+    },
+    "column": {
+      "annual_price": "年間",
+      "discount": "今日だけの特別割引をゲット！",
+      "enjoy": "初回サブスクリプションで最大75%オフを楽しもう",
+      "month_price": "月額",
+      "payment": "クレジット/デビットカードで支払う",
+      "payment_description": "年払いとして請求されます"
+    },
+    "description": "完全な匿名性保証、いつでも簡単にキャンセル可能",
+    "premium_benefits": {
+      "benefits": {
+        "benefit-0": " 自分だけのAIコンパニオンを作成",
+        "benefit-1": " 無制限のテキストメッセージ",
+        "benefit-2": " 毎月120個の無料トークンを受け取る",
+        "benefit-3": " 画像のぼかしを解除",
+        "benefit-4": " カスタム画像を生成",
+        "benefit-5": " 高速な応答時間を楽しむ"
+      },
+      "title": "プレミアム特典"
+    },
+    "title": "プランを選択"
+  },
+  "terms_conditions_dialog": {
+    "title": "警告 18+",
+    "subtitle-1": "このサイトは成人向けです！",
+    "subtitle-2": "AI生成の成人向けコンテンツが含まれています。",
+    "detail": "このウェブサイトにアクセスすることにより、あなたが18歳以上であることを確認します。年齢についての不正確な情報を提供することは、利用規約の違反となります。このサイトを使用することにより、利用規約およびポリシーに同意したものとみなされます。当社のプライバシーポリシーには、マーケティング目的でのデータ収集と利用方法について詳述されています。このサイトを継続して使用することにより、メールによる更新情報やオファーの受信に同意したものとみなされます。これらのメールはいつでもオプトアウトできます。基本的な分析やスパム検出のためにクッキーを使用しています。このウェブサイトのすべてのコンテンツはAIによって生成されたものです！実在の人物に似ている生成物は完全に偶然のものです。",
+    "terms-button": "利用規約",
+    "privacy-button": "プライバシーポリシー",
+    "submit-button": "18歳以上です - 続行"
+  },
+  "reset_password": {
+    "title": "パスワードをリセットする",
+    "subtitle": "メールアドレスを入力してください。パスワードをリセットするための指示を送ります。"
+  },
+  "modal_upgrade": {
+    "title1": "プレミアムにアップグレードして",
+    "title-color": "生成する",
+    "title2": "もっと！",
+    "options": "サブスクリプションでできること：",
+    "benefit1": " 無制限にAIを生成する",
+    "benefit2": " 最も刺激的な写真を生成する",
+    "benefit3": " 画像のぼかしを解除する",
+    "button-preimum": " プレミアムになる"
+  },
+  "my-ai": {
+    "create-new": "新しいAIを作成"
+  },
+  "new-character": {
+    "action-buttons-result": {
+      "chat-telegram": "Telegramでチャット",
+      "create-new": "新規作成",
+      "generate-image": "画像を生成する",
+      "start-chatting": "チャットを開始"
+    }
+  },
+  "account-confirm-email": {
+    "title-loading": "メールを検証中",
+    "title-success": "メールが検証されました！",
+    "title-error": "おっと！何か問題が発生しました",
+    "login": "ログイン",
+    "go-back": "戻る"
+  },
+  "restore-password": {
+    "title": "パスワードを回復する",
+    "text-1": "メールアドレスを入力して、パスワードを変更するためのコードを送信します。",
+    "text-2": "メールが見つからない場合、再送信をお勧めします。",
+    "has-send": "メールが届きませんか？再送信をリクエストしてください。",
+    "button": "リンクを送信する",
+    "modal-title": "メールが再送信されました",
+    "modal-text-1": "メールを送信しましたので、ご確認ください。",
+    "modal-text-2": "すべての受信箱（スパム、プロモーションなど）を確認してください。メールが見つからない場合、再送信をリクエストできます。",
+    "modal-button": "閉じる"
+  },
+  "password-change-confirm": {
+    "title": "パスワードを変更する",
+    "text-loading": "このリンクを検証中",
+    "title-success": "新しいパスワードを選択してください",
+    "input-label-1": "パスワード",
+    "input-placeholder-1": "新しいパスワードを入力してください",
+    "input-label-2": "パスワードを再入力してください",
+    "input-placeholder-2": "新しいパスワードを再入力してください",
+    "title-error": "リンクが無効です",
+    "text-error": "このリンクは無効です。期限切れの可能性があります。",
+    "resend": "リンクを再送信する",
+    "modal-title": "良いですね！",
+    "modal-text": "パスワードが正常に変更されました。",
+    "modal-button": "ログインする"
+  },
+  "gallery": {
+    "title": "ギャラリー",
+    "all-characters": "すべてのキャラクター",
+    "character-filter": "キャラクターフィルター",
+    "empty-gallery-description": "まだ写真がありません"
+  },
+  "tokens": {
+    "benefits": {
+      "benefit-0": " 自分だけのAIコンパニオンを作成",
+      "benefit-1": " AI画像生成",
+      "title": "トークンの特典"
+    },
+    "column": {
+      "discount": "今日だけの特別割引をゲット！",
+      "enjoy": "初回サブスクリプションで最大75%オフを楽しもう"
+    },
+    "options": {
+      "character-cost": "キャラクターのコスト",
+      "image-cost": "画像のコスト",
+      "chat-cost": "チャットのコスト"
+    },
+    "title": "トークンを購入",
+    "buy-more": "もっと購入する"
+  },
+  "menu-profile": {
+    "title": "マイプロフィール",
+    "my-account": "マイアカウント"
+  },
+  "full-width-banner": {
+    "description": "より没入感のある体験のために、AIコンパニオンと写真を共有しましょう。無料でお試しください！"
+  }
+}

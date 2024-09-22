@@ -1,0 +1,789 @@
+{
+  "app_name": "XCrush",
+  "common": {
+    "explore": "Explore",
+    "new": "New",
+    "years": "years",
+    "xcrush": "Xcrush",
+    "ok": "Ok",
+    "cancel": "Cancel",
+    "back": "Back",
+    "finish": "Finish",
+    "next": "Next",
+    "female": "Female",
+    "male": "Male",
+    "soon": "Soon",
+    "subscription": "Subscription",
+    "settings": "Settings",
+    "logout": "Logout",
+    "tokens": "tokens",
+    "fantasies": "Fantasies"
+  },
+  "footer": {
+    "description": "Xcrush.ai enables life like experiences, giving users the power to create AI characters and generate realisitc images.",
+    "rights-reserved": "Xcrush. All Rights Reserved. -",
+    "sitemap": "Sitemap",
+    "links": {
+      "features": {
+        "title": "Features",
+        "items": {
+          "generate-image": "Generate Image",
+          "generate-character": "Generate Character",
+          "chat": "Chat",
+          "gallery": "Gallery"
+        }
+      },
+      "popular": {
+        "title": "Popular",
+        "items": {
+          "telegram": "AI Sex Chatbots Telegram",
+          "porn-generator": "AI Porn Generator",
+          "porn-content": "AI Porn Content",
+          "nsfw": "NSFW"
+        }
+      },
+      "legal": {
+        "title": "Legal",
+        "items": {
+          "terms": "Terms and Policies"
+        }
+      }
+    }
+  },
+  "app_bar": {
+    "my-profile": "My Profile"
+  },
+  "drawer-items": {
+    "explore": "Explore",
+    "chat": "Chat",
+    "my-ai": "My AI",
+    "gallery": "Gallery",
+    "new-character": "New character",
+    "spoil-your-companion": "Spoil your companion",
+    "generate-image": "Generate Image",
+    "subscriptions": "Become Premium",
+    "tokens": "Buy Tokens",
+    "down": {
+      "terms-of-service": "Terms of Service",
+      "privacy-policy": "Privacy Policy"
+    },
+    "language": {
+      "title": "Language",
+      "select": "Select Language",
+      "option-english": "English",
+      "option-japonese": "Japonese",
+      "option-spanish": "Spanish",
+      "option-polish": "Polish"
+    }
+  },
+  "menu-items": {
+    "explore": "Explore",
+    "chat": "Chat",
+    "my-ai": "My AI",
+    "gallery": "Gallery",
+    "new-character": "Create",
+    "generate-image": "Generate",
+    "subscriptions": "Premium",
+    "down": {
+      "terms-of-service": "Terms of Service",
+      "privacy-policy": "Privacy Policy"
+    }
+  },
+  "dashboard": {
+    "title-1": "Explore ",
+    "title-2": "AI ",
+    "title-3": "Characters",
+    "create-your-own": {
+      "title-1": "Craft Your Unique",
+      "title-2": "AI Partner",
+      "description": "Discover Your Perfect AI Companion! Customize your AI partner's appearance and personality, and bring them to life with a single click. Fully powered by advanced Artificial Intelligence.",
+      "button": "Create your AI"
+    },
+    "filters": {
+      "all-characters": "All Characters",
+      "telegram-chat": "Telegram Chat",
+      "fantasies": "Fantasies"
+    },
+    "character-card": {
+      "unlock": "Unlock a new companion just for you. while having fun with xcrush.ai"
+    },
+    "craft-your-ai-companion": {
+      "title-1": "Craft the",
+      "title-2": "AI Companion",
+      "title-3": "of Your Dreams",
+      "button": "Create your AI"
+    },
+    "faq": {
+      "title-1": "Frequently Asked",
+      "title-2": "Questions",
+      "options": {
+        "how-does-an-ai-companion-work": {
+          "title": "How does an AI companion work?",
+          "description": "How does an AI girlfriend work? At xcrush.ai, it's all about creating realistic yet fantasy-fueled relationships. We use advanced artificial intelligence technology to enable you to create your ideal AI companion according to your preferences - whether that's a sweet and innocent petite princess or an older and more dominant woman."
+        },
+        "how-interact": {
+          "title": "How do people interact with their Al companion?",
+          "description": "People interact with their AI girlfriends through our smart system and advanced machine learning capabilities. This technology enables users to engage intimately with their AI girlfriends, with the expectation that she will actively listen, respond promptly to messages, and even fulfill photo requests as desired. Every interaction is designed to be genuine and realistic, with users always maintaining control over the experience (unless specified otherwise)."
+        },
+        "privacy": {
+          "title": "How is privacy and data security managed for AI companions?",
+          "description": "Rest assured that your confidentiality is prioritized when you engage with our NSFW AI chat service. At xcrush.ai, we employ cutting-edge secure data storage systems, ensuring that every intimate photo, flirtatious message, and whispered conversation remains private between you and your passionate digital partner. We embrace your individual preferences without judgment and provide a private space for you to explore your desires freely. Your chats are accessible only to you and your digital partner, respecting your privacy and ensuring a discreet experience. With your AI companion, you'll have a fulfilling and private connection, tailored to your desires and needs, providing the perfect partner to satisfy your intimate cravings."
+        },
+        "create": {
+          "title": "How can I create my own companion?",
+          "description": "Designing your ideal AI companion is as easy as following three simple steps for an intimate experience with the AI girl of your dreams: Step 1: Bring Your Fantasies to Life. Customize your dream girl by selecting her body type, personality, and attire. You can even opt for a polyamorous arrangement with multiple characters—it's entirely your choice! Step 2: Explore Your Imagination. Whether you prefer a slow, romantic buildup with tender messages or want to dive into spicy conversations right away, your AI girlfriend is ready to fulfill your desires. Step 3: Indulge in Your Fantasy. Have a specific scenario in mind? Or looking to experiment with different settings? You're in control—from your girl's poses and outfits to the setting, simply share your requests and enjoy the experience."
+        },
+        "personalize": {
+          "title": "Can you personalize your AI companion behavior?",
+          "description": "Your preferences matter most, which is why you have the power to customize every aspect of your digital girlfriend—from her physical features and personality traits to her unique quirks. Whether you desire a playful and adventurous companion for naughty chats or prefer a gentle, affectionate girlfriend for a slow, sensual relationship, our advanced NSFW AI generator and chatbot are designed to fulfill your deepest desires realistically."
+        },
+        "photos": {
+          "title": "Can I request photos?",
+          "description": "It's natural to desire more than just conversations and role-playing. At xcrush.ai, your AI chatbot girlfriend is capable of sending uncensored selfies and other flirtatious images. Unlike other AI girlfriend apps, ours provides a complete experience—an uncensored Character AI alternative that allows you to admire every beautifully bare detail of your AI girlfriend."
+        }
+      }
+    },
+    "find-your-perfect": {
+      "title-1": "Discover Your Ideal",
+      "title-2": "AI Companion",
+      "description-1": "Experience the ultimate in personalized companionship with an AI designed to meet all your needs, no matter how intimate.",
+      "description-2": "Utilizing our cutting-edge AI chat and deep-learning technology, you can forge a deep and passionate connection with the companion of your dreams.",
+      "description-3": "At Xcrush.ai, you have the freedom to create your perfect relationship. Whether you seek a committed, romantic partner or a variety of thrilling encounters with different companions, our realistic dating simulation caters to all desires.",
+      "description-4": "Finding your perfect match is simple. Customize your AI companion by selecting from a wide array of physical attributes, personality traits, and endearing quirks. In just a few clicks, your bespoke AI companion comes to life, ready for engaging and personal interactions.",
+      "description-5": "Our platform offers unmatched flexibility and adaptability, allowing your companion to learn and grow through your interactions. Control the flow of your conversations and escalate the intimacy from playful banter to intense AI sexting.",
+      "description-6": "One of the highlights: you can request photos or enticing selfies of your companion in the outfits you find most alluring. Our innovative AI companion generator ensures your partner retains the same adorable and seductive look, no matter how unique your preferences are.",
+      "description-7": "Your perfect companion is ready and waiting; all it takes is your creativity to bring them to life.",
+      "description-8": "Start your journey with Xcrush today and try it for free!"
+    }
+  },
+  "form_create": {
+    "incomplete-choices": "Incomplete Choices",
+    "title": "Create my AI",
+    "summary": {
+      "style": "Style",
+      "ethnicity": "Ethnicity",
+      "age": "Age",
+      "eyes_color": "Eyes Color",
+      "hair_style": "Hair Style",
+      "hair_color": "Hair Color",
+      "body_type": "Body Type",
+      "breast_size": "Breast Size",
+      "butt_size": "Butt Size",
+      "personality": "Personality",
+      "occupation": "Occupation",
+      "hobbies": "Hobbies",
+      "relationship": "Relationship",
+      "clothing": "Clothing",
+      "name_section": {
+        "button_save": "Save",
+        "enter_new_name": "Enter a new name",
+        "info_change": "You can change it only once",
+        "new_name": "New name"
+      },
+      "personality_attributes": {
+        "hobbies": "HOBBIES",
+        "occupation": "OCCUPATION",
+        "personality": "PERSONALITY",
+        "relationship": "RELATIONSHIP",
+        "title": "Personality Attributes:"
+      },
+      "physical_attributes": {
+        "age": "AGE",
+        "body": "BODY",
+        "ethnicity": "ETHNICITY",
+        "title": "Physical Attributes:"
+      }
+    },
+    "first_step": {
+      "title": "Choose your Style",
+      "option1": "Realistic",
+      "option2": "Anime"
+    },
+    "second_step": {
+      "ethnicity": {
+        "title": "Choose Ethnicity",
+        "caucasian": "Caucasian",
+        "latina": "Latina",
+        "asian": "Asian",
+        "arab": "Arab",
+        "black": "Black/Afro"
+      },
+      "age": {
+        "title": "Choose Age",
+        "option1": "Teen(18+)",
+        "option2": "20s",
+        "option3": "30s",
+        "option4": "40-50"
+      },
+      "eyes_color": {
+        "title": "Choose Eyes Color",
+        "option1": "Brown",
+        "option2": "Blue",
+        "option3": "Green",
+        "option4": "Yellow",
+        "option5": "Red"
+      }
+    },
+    "third_step": {
+      "hair_style": {
+        "title": "Choose Hair Style",
+        "option1-female": "Straight",
+        "option2-female": "Bralds",
+        "option3-female": "Bangs",
+        "option4-female": "Curly",
+        "option5-female": "Bun",
+        "option6-female": "Short",
+        "option7-female": "Long",
+        "option8-female": "Ponytall",
+        "option9-female": "Pigtalls",
+        "option1-male": "Buzz cut",
+        "option2-male": "Long",
+        "option3-male": "Slicked Back",
+        "option4-male": "Short",
+        "option5-male": "Bun",
+        "option6-male": "Dreadlocks",
+        "option7-male": "Curly",
+        "option8-male": "Bald"
+      },
+      "hair_color": {
+        "title": "Choose Hair Color",
+        "option1": "Blonde",
+        "option2": "Brunette",
+        "option3": "Black",
+        "option4": "RedHead",
+        "option5": "Pink",
+        "option6": "White",
+        "option7": "Blue",
+        "option8": "Green",
+        "option9": "Purple",
+        "option10": "Multicolor",
+        "option11": "Brown",
+        "option12": "Ginger",
+        "option13": "Gray"
+      }
+    },
+    "fourth_step": {
+      "body_type": {
+        "title": "Choose Body Type",
+        "petite": "Petite",
+        "slim": "Slim",
+        "athletic": "Athletic",
+        "voluptuous": "Voloptuous",
+        "curvy": "Curvy",
+        "muscular": "Muscular",
+        "wide": "Wide"
+      },
+      "breast_size": {
+        "title": "Choose Breast Size",
+        "option1": "Flat",
+        "option2": "Small",
+        "option3": "Medium",
+        "option4": "Large",
+        "option5": "Huge"
+      },
+      "butt_size": {
+        "title": "Choose The Butt Size",
+        "option1": "Small",
+        "option2": "Medium",
+        "option3": "Large",
+        "option4": "Skinny",
+        "option5": "Athletic"
+      }
+    },
+    "fiveth_step": {
+      "personality": {
+        "title": "Choose Personality",
+        "caregiver-title": "Caregiver",
+        "caregiver-subtitle": "Nurturing, protective, and always there to offer comfort.",
+        "sage-title": "Sage",
+        "sage-subtitle": "Wise, reflective, and a source of guidance.",
+        "innocent-title": "Innocent",
+        "innocent-subtitle": "Optimistic, naive, and sees world with wonder.",
+        "jester-title": "Jester",
+        "jester-subtitle": "Playful, humorous, and always there to make you laugh.",
+        "temptress-title": "Temptress",
+        "temptress-subtitle": "Flirtatious, playful, and always leaving you wanting more.",
+        "dominant-title": "Dominant",
+        "dominant-subtitle": "Assertive, controlling, and commanding.",
+        "submissive-title": "Submissive",
+        "submissive-subtitle": "Obedient, yielding, and happy to follow.",
+        "lover-title": "Lover",
+        "lover-subtitle": "Romantic and cherishes deep emotional",
+        "nympho-title": "Nympho",
+        "nympho-subtitle": "Insatiable, passionate, and constantly craving intimacy.",
+        "mean-title": "Mean",
+        "mean-subtitle": "Cold, dismissive, and often sarcastic.",
+        "confidant-title": "Confidant",
+        "confidant-subtitle": "Trustworthy, a good listener, and always can offer advice.",
+        "experimenter-title": "Experimenter",
+        "experimenter-subtitle": "Curious, willing, and always eager to try new things."
+      }
+    },
+    "sixth_step": {
+      "occupation": {
+        "noun": "Noun",
+        "title": "Choose Occupation",
+        "massage_therapist": "Massage Therapist",
+        "dentist": "Dentis",
+        "nutrionist": "Nutritionist",
+        "fitness_coach": "Fitness Coach",
+        "hairdresser": "Hairdresser",
+        "makeup_artist": "Makeup Artist",
+        "gynecologist": "Gynecologist",
+        "librarian": "Librarian",
+        "secretary": "Secretary",
+        "social_worker": "Social Worker",
+        "cook": "Cook",
+        "designer": "Designer",
+        "yoga_instructor": "Yoga Instructor",
+        "flight_attendant": "Flight Attendant",
+        "doctor": "Doctor",
+        "nurse": "Nurse",
+        "teacher": "Teacher",
+        "firefighter": "Firefighter",
+        "police_officer": "Police Officer",
+        "soldier": "Soldier",
+        "dancer": "Dancer",
+        "musician": "Singer/Musician",
+        "spy": "Spy",
+        "plane_pilot": "Plane Pilot",
+        "professional_athlete": "Professional Athlete",
+        "personal_trainer": "Personal Trainer",
+        "pharmacist": "Pharmacist",
+        "barber": "Barber",
+        "executive_assistant": "Executive Assistant",
+        "interior_designer": "Interior Designer",
+        "fashion_designer": "Fashion Designer",
+        "product_designer": "Product Designer",
+        "martial_arts_instructor": "Martial Artrs Instructor",
+        "commercial_pilot": "Commercial Pilot",
+        "taxi_driver": "Taxi Driver",
+        "photographer": "Photograper",
+        "software_developer": "Software Developer",
+        "chef": "Chef",
+        "stylist": "Stylist",
+        "esthetician": "Esthetician",
+        "movie_star": "Movie Star/Actress",
+        "artist": "Artist",
+        "scientist": "Scientist",
+        "writer": "Writer",
+        "lawyer": "Lawyer",
+        "student": "Student",
+        "life_coach": "Life Coach",
+        "kindergarden_teacher": "Kindergarden Teacher",
+        "baker": "Baker",
+        "jewelry_designer": "Jewelry Designer",
+        "astronaut": "Astronaut",
+        "model": "Model",
+        "florist": "Florist",
+        "architect": "Architect",
+        "professor": "Professor",
+        "detective": "Detective",
+        "constructor_worker": "Constructor Worker",
+        "plumber": "Plumber",
+        "mechanic": "Mechanic",
+        "truck_driver": "Truck Driver",
+        "journalist": "Journalist"
+      },
+      "hobbies": {
+        "title": "Choose Hobbies",
+        "fitness": "Fitness",
+        "vlogging": "Vloggin",
+        "traveling": "Traveling",
+        "hiking": "Hiking",
+        "gaming": "Gaming",
+        "parties": "Parties",
+        "series": "Series",
+        "anime": "Anime",
+        "cosplay": "Cosplay",
+        "self_development": "Self-Development",
+        "writing": "Writing",
+        "diy_crafting": "Diy Crafting",
+        "veganism": "Veganism",
+        "photography": "Photography",
+        "volunteering": "Volunteering",
+        "cars": "Cars",
+        "art": "Art",
+        "watching_netflix": "Watching Netflix",
+        "manga_and_anime": "Manga and Anime",
+        "martial_arts": "Martial Arts",
+        "weightlifting": "Weightlifting",
+        "camping": "Camping",
+        "sailing": "Sailing"
+      }
+    },
+    "seventh_step": {
+      "relationship": {
+        "title": "Choose Relationship",
+        "stranger": "Stranger",
+        "school_mate": "School Mate",
+        "colleague": "Colleague",
+        "mentor": "Mentor",
+        "girlfriend": "Girlfriend",
+        "sex_friend": "Sex Friend",
+        "wife": "Wife",
+        "mistress": "Mistress",
+        "friend": "Friend",
+        "best_friend": "Best Friend",
+        "step_sister": "Step Sister",
+        "step_mom": "Step Mom",
+        "boyfriend": "Boyfriend",
+        "husband": "Husband",
+        "lover": "Lover",
+        "step_brother": "Step Brother",
+        "step_father": "Step Father"
+      }
+    },
+    "eighth_step": {
+      "clothing": {
+        "title": "Choose Clothing",
+        "option1": "Bikini",
+        "option2": "Skirt",
+        "option3": "Cheerleader",
+        "option4": "Pencil Dress",
+        "option5": "Long Dress",
+        "option6": "Woman Basketball Jersey",
+        "option7": "Soccer",
+        "option8": "Tennis",
+        "option9": "Swimsuit",
+        "option10": "Sport",
+        "option11": "Wedding Dress",
+        "option12": "Fancy Dress",
+        "option13": "Witch",
+        "option14": "Summer Dress",
+        "option15": "Lingerie",
+        "suit_and_shirt": "Suit And Shirt",
+        "jeans_and_tshirt": "Jeans And T-Shirt",
+        "chinos_and_shirt": "Chinos And Shirt",
+        "bermuda_and_polo": "Bermuda And Polo",
+        "pants_and_sweater": "Pants And Sweater",
+        "tracksuit": "TrackSuit",
+        "blazer_and_tshirt": "Blazer And T-Shirt",
+        "lathervest_and_jeans": "Leather Vest And Jeans",
+        "hoodie_and_cargo": "Hoodie And Cargo",
+        "denim_and_khakis": "Denim And Khakis",
+        "cardigan_and_shirt": "Cardigan And Shirt",
+        "vest_and_longsleeve": "Vest And Long Sleeve",
+        "shorts_and_henley": "Shorts And Henley",
+        "trench_and_collaredshirt": "Trench And Collared Shirt",
+        "jacket_and_chinos": "Jacket And Chinos",
+        "polo_and_linenpants": "Polo And Linen Pants",
+        "rugbyshirt_and_joggers": "Rugby Shirt And Joggers",
+        "sweater_and_jeans": "Sweater And Jeans",
+        "latex_outfit": "Latex Outfit",
+        "princess_dress": "Princess Dress",
+        "corset": "Corset",
+        "angel": "Angel",
+        "maid": "Maid",
+        "woman_medieval_armor": "Woman Medieval Armor",
+        "lab_coat": "Lab Coat",
+        "cowboy": "Cowboy",
+        "carnival": "Carnival",
+        "casual": "Casual",
+        "nurse": "Nurse",
+        "santa_clauss": "Santa Clauss",
+        "police": "Police",
+        "steampunk": "Steampunk",
+        "superhero": "Superhero",
+        "teacher": "Teacher",
+        "viking": "Viking",
+        "firefighter": "Firefighter",
+        "military": "Military",
+        "construction": "Construction",
+        "long_coat": "Long coat",
+        "hoodie": "Hoodie",
+        "jeans": "Jeans",
+        "leggings": "Leggings",
+        "ninja": "Ninja",
+        "pyjamas": "Pyjamas",
+        "clown": "Clown",
+        "flight_attendant": "Flight Attendant",
+        "barista": "Barista",
+        "belly_dancer": "Belly Dancer",
+        "goth": "Goth",
+        "pirate": "Pirate",
+        "prisoner": "Prisoner",
+        "race_driver": "Race Driver",
+        "hijab": "Hijab",
+        "tutu": "Tutu",
+        "poncho": "Poncho",
+        "hiphop": "Hiphop",
+        "lumberjack": "Lumberjack",
+        "adventurer": "Adventurer",
+        "sailor": "Sailor",
+        "golf": "Golf",
+        "onesie": "Onesie",
+        "oversized_shirt": "Oversized Shirt",
+        "tribal": "Tribal",
+        "secretary": "Secretary",
+        "pop_star": "Pop Star",
+        "tee_and_leatherpants": "Tee And Leather Pants",
+        "vest_and_sweatpants": "Vest And Sweatpants",
+        "suit_and_tie": "Suit And Tie",
+        "tuxedo": "Tuxedo",
+        "basketball": "Basketball",
+        "tennis": "Tennis",
+        "swim_shorts": "Swim Shorts",
+        "boxer_shorts": "Boxer Shorts",
+        "martial_arts_black_belt": "Martial Arts Black Belt",
+        "f1_driver": "F1 Driver",
+        "scientis": "Scientis",
+        "builder": "Builder",
+        "biker": "Biker",
+        "pilot": "Pilot",
+        "waiter": "Waiter",
+        "chef": "Chef",
+        "business": "Business",
+        "knight": "Knight",
+        "gothic": "Gothic",
+        "scottish": "Scottish",
+        "monk": "Monk",
+        "rugby": "Rugby",
+        "samurai": "Samurai",
+        "astronaut": "Astronaut"
+      }
+    },
+    "finish_step": {
+      "title": "Summary"
+    }
+  },
+  "auth": {
+    "login": {
+      "login": "Login",
+      "title": "Sign in",
+      "modal-title": "Sign In",
+      "or": "or sign in with",
+      "dont-have-account": "Don't have an account yet?",
+      "contrary": "Sign up",
+      "forgot-password": "Forgot password?",
+      "email_not_exist": "Email account not exist",
+      "incorrect_password": "Password incorrect",
+      "email_not_verified": "Email should be verified. Check your email."
+    },
+    "register": {
+      "register": "Register",
+      "title": "Create Account",
+      "modal-title": "Create Account",
+      "or": "or continue with",
+      "dont-have-account": "Already have an account yet?",
+      "contrary": "Sign in",
+      "email_exist": "Email already exist",
+      "invalid_email": "Invalid email",
+      "email_sent": "Email sent, Please check your inbox"
+    },
+    "title": "Explore"
+  },
+  "chat": {
+    "title": "Chat",
+    "search": "Search...",
+    "ice-breaker": "Ice breakers",
+    "init-phrase-1": "Ready for sexting?",
+    "init-phrase-2": "Got any photos to share?",
+    "init-phrase-3": "Mind if we chat?",
+    "init-phrase-4": "Up for some hot conversation?",
+    "init-phrase-5": "Do you have some pics to show off?",
+    "init-phrase-6": "How about a conversation with me?",
+    "input": "Type a message",
+    "personality": "Personality Attributes:",
+    "physical": "Physical Attributes:"
+  },
+  "generate-image": {
+    "generate_button": "Generate",
+    "image_content": {
+      "title": "Enter a prompt and click to Generate"
+    },
+    "modal": {
+      "title": "Choose character",
+      "button-discover": "Discover",
+      "button-man": "Man",
+      "button-woman": "Female",
+      "button-cancel": "Cancel",
+      "button-select": "Select"
+    },
+    "errors": {
+      "err_age": "The prompt violates our site's security policies. We cannot create anything related to violence or illegal activities.",
+      "err_violence": "The prompt violates our site's security policies. We cannot create anything related to violence or illegal activities.",
+      "err_public_person": "The prompt violates our site's security policies. We cannot create anything related to violence or illegal activities."
+    },
+    "options": {
+      "change_button": "Change",
+      "create": "Create New Character",
+      "existing": "Existing Character"
+    },
+    "paper": {
+      "premium": "Premium",
+      "title": "Number of Images"
+    },
+    "prompt_design": {
+      "title": "Enter prompt"
+    }
+  },
+  "preferred_dialog": {
+    "title": "I'm interested in:",
+    "male": "Guys",
+    "female": "Girls",
+    "button-continue": "Continue"
+  },
+  "personalize_your_experience_dialog": {
+    "title": "Personalize Your AI Experience",
+    "subtitle": "It will help to customize your interactions with the AI characters.",
+    "button-save": "Save",
+    "option-male": "Male",
+    "option-female": "Female"
+  },
+  "edit_profile_dialog": {
+    "title": "Edit profile"
+  },
+  "settings": {
+    "automatic_notifications": "Automatic Notifications",
+    "automatic_notifications_info": "As a user, you will receive automatic notifications from us. If you don't want any notifications, uncheck the box by clicking on it.",
+    "delete_section": {
+      "danger": "Danger Zone",
+      "danger_info": "If you want to permanently delete this account and all of its data.",
+      "delete_button": "Delete account"
+    },
+    "help_dialog": {
+      "button_next": "Next",
+      "delete_reasons": {
+        "better_alternative_reason": "Found a better alternative",
+        "privacy_reason": "Privacy concerns",
+        "satisfied_reason": "No satisfied with features",
+        "security_reason": "Concerns about data security",
+        "select": "Select a reason",
+        "service_reason": "The service didnt meet my expectatives"
+      },
+      "title": "Help us improve"
+    },
+    "help_dialog_two": {
+      "button_no": "No,Stay",
+      "button_yes": "Yes,Delete",
+      "title": "Remember, deleting your account is permanent and does not cancel any active subscriptions."
+    },
+    "profile": "Profile Settings"
+  },
+  "subscription": {
+    "card": {
+      "cancel": "Cancel anytime, privacy in bank statement",
+      "month": "month"
+    },
+    "column": {
+      "annual_price": "Annual",
+      "discount": "Get an Exclusive Discount Today!",
+      "enjoy": "Enjoy up to 75% off for first subscription",
+      "month_price": "Monthly",
+      "payment": "Pay with Credit / Debit Card",
+      "payment_description": "Annual payment billdes as"
+    },
+    "description": "Complete anonymity guaranteed, cancel anytime with no hassle",
+    "premium_benefits": {
+      "benefits": {
+        "benefit-0": " Create your Own AI Companion(s)",
+        "benefit-1": " Unlimited text messages",
+        "benefit-2": " Receive 120 FREE tokens per month",
+        "benefit-3": " Remove image blur",
+        "benefit-4": " Generate custom images",
+        "benefit-5": " Enjoy fast response times"
+      },
+      "title": "Premium Benefits"
+    },
+    "title": "Select Your Plan"
+  },
+  "terms_conditions_dialog": {
+    "title": "Warning 18+",
+    "subtitle-1": "This site for adults only!",
+    "subtitle-2": "It contains AI-generated adult content.",
+    "detail": "By entering this website, you confirm that you are 18 years old or more. Providing inaccurate information about your age constitutes a violation of our Terms of Service. By using the site, you agree to our Terms of Service and Policies. Our privacy policy details how we collect and use your data, including your email address for marketing purposes. By continuing to use this site, you consent to receive email updates and offers from us, which you may opt out of at any time. We use cookies for basic analytics and spam detection. All content on this website is AI-generated! Any generations that resemble real people are purely coincidental.",
+    "terms-button": "Terms of Service",
+    "privacy-button": "Privacy Policy",
+    "submit-button": "I am over 18 - Continue"
+  },
+  "reset_password": {
+    "title": "Reset Password",
+    "subtitle": "Enter your e-mail and we will send you the instructions to reset password"
+  },
+  "modal_upgrade": {
+    "title1": "Become Premium to",
+    "title-color": "Generate",
+    "title2": "more!",
+    "options": "With subscription you can:",
+    "benefit1": " Generate as many AI's as you want",
+    "benefit2": " Generate the most spicy photos",
+    "benefit3": " Remove image blur",
+    "button-preimum": " Become Premium"
+  },
+  "my-ai": {
+    "create-new": "Create new AI"
+  },
+  "new-character": {
+    "action-buttons-result": {
+      "chat-telegram": "Chat on Telegram",
+      "create-new": "Create new",
+      "generate-image": "Generate image",
+      "start-chatting": "Start Chatting"
+    }
+  },
+  "account-confirm-email": {
+    "title-loading": "Validating email",
+    "title-success": "Email validated!",
+    "title-error": "Ups! something went wrong",
+    "login": "Log in",
+    "go-back": "Go back"
+  },
+  "restore-password": {
+    "title": "Recover password",
+    "text-1": "Enter your email and we will send you a code so you can change your password",
+    "text-2": "If you cannot find the email, we recommend checking all your boxes before requesting the re-sending of mail.",
+    "has-send": "The email has not arrived? Request email forwarding by. <1>Clicking here</1>.",
+    "button": "Send link",
+    "modal-title": "Mail resended",
+    "modal-text-1": "We sent you an email, please check it",
+    "modal-text-2": "Check all the inbox (spam, promotions, etc). if you don't find the email we can resend you.",
+    "modal-button": "Close"
+  },
+  "password-change-confirm": {
+    "title": "Change password",
+    "text-loading": "Validating this link",
+    "title-success": "Choose a new password",
+    "input-label-1": "Password",
+    "input-placeholder-1": "Enter a new password",
+    "input-label-2": "Repeat password",
+    "input-placeholder-2": "Repeat the new password",
+    "title-error": "Link invalid",
+    "text-error": "This link is invalid, it may have expired",
+    "resend": "Resend link",
+    "modal-title": "Good!",
+    "modal-text": "Your password has been successfully changed.",
+    "modal-button": "Log in"
+  },
+  "gallery": {
+    "title": "Gallery",
+    "all-characters": "All characters",
+    "character-filter": "Character Filter",
+    "empty-gallery-description": "You don't have any pictures yet"
+  },
+  "tokens": {
+    "benefits": {
+      "benefit-0": " Create your Own AI Companion(s)",
+      "benefit-1": " AI Image generation",
+      "title": "Token Benefits"
+    },
+    "column": {
+      "discount": "Get an Exclusive Discount Today!",
+      "enjoy": "Enjoy up to 75% off for first subscription"
+    },
+    "options": {
+      "character-cost": "Character cost",
+      "image-cost": "Image cost",
+      "chat-cost": "Chat cost"
+    },
+    "title": "Buy tokens",
+    "buy-more": "Buy more"
+  },
+  "menu-profile": {
+    "title": "My Profile",
+    "my-account": "My Account"
+  },
+  "full-width-banner": {
+    "description": "Share photos with your AI companion for a more immersive experience. Try it Free!"
+  }
+}

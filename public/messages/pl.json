@@ -1,0 +1,789 @@
+{
+  "app_name": "XCrush",
+  "common": {
+    "explore": "Eksploruj",
+    "new": "Nowy",
+    "years": "lata",
+    "xcrush": "Xcrush",
+    "ok": "Ok",
+    "cancel": "Anuluj",
+    "back": "Wstecz",
+    "finish": "Zakończ",
+    "next": "Dalej",
+    "female": "Kobieta",
+    "male": "Mężczyzna",
+    "soon": "Wkrótce",
+    "subscription": "Subskrypcja",
+    "settings": "Ustawienia",
+    "logout": "Wyloguj się",
+    "tokens": "tokeny",
+    "fantasies": "Fantazje"
+  },
+  "footer": {
+    "description": "Xcrush.ai umożliwia realistyczne doświadczenia, dając użytkownikom moc tworzenia postaci AI i generowania realistycznych obrazów.",
+    "rights-reserved": "Xcrush. Wszelkie prawa zastrzeżone. -",
+    "sitemap": "Mapa witryny",
+    "links": {
+      "features": {
+        "title": "Funkcje",
+        "items": {
+          "generate-image": "Generuj obraz",
+          "generate-character": "Generuj postać",
+          "chat": "Czat",
+          "gallery": "Galeria"
+        }
+      },
+      "popular": {
+        "title": "Popularne",
+        "items": {
+          "telegram": "Sexting AI Telegram",
+          "porn-generator": "Generator AI Porn",
+          "porn-content": "Zawartość AI Porn",
+          "nsfw": "NSFW"
+        }
+      },
+      "legal": {
+        "title": "Prawne",
+        "items": {
+          "terms": "Regulamin i Polityka"
+        }
+      }
+    }
+  },
+  "app_bar": {
+    "my-profile": "Mój Profil"
+  },
+  "drawer-items": {
+    "explore": "Eksploruj",
+    "chat": "Czat",
+    "my-ai": "Moja AI",
+    "gallery": "Galeria",
+    "new-character": "Nowa postać",
+    "spoil-your-companion": "Rozpieść swojego towarzysza",
+    "generate-image": "Generuj obraz",
+    "subscriptions": "Przejdź na Premium",
+    "tokens": "Kup Tokeny",
+    "down": {
+      "terms-of-service": "Regulamin",
+      "privacy-policy": "Polityka prywatności"
+    },
+    "language": {
+      "title": "Język",
+      "select": "Wybierz język",
+      "option-english": "Angielski",
+      "option-japonese": "Japoński",
+      "option-spanish": "Hiszpański",
+      "option-poland": "Polski"
+    }
+  },
+  "menu-items": {
+    "explore": "Eksploruj",
+    "chat": "Czat",
+    "my-ai": "Moja AI",
+    "gallery": "Galeria",
+    "new-character": "Stwórz",
+    "generate-image": "Generuj",
+    "subscriptions": "Premium",
+    "down": {
+      "terms-of-service": "Regulamin",
+      "privacy-policy": "Polityka prywatności"
+    }
+  },
+  "dashboard": {
+    "title-1": "Eksploruj ",
+    "title-2": "AI ",
+    "title-3": "Postacie",
+    "create-your-own": {
+      "title-1": "Twórz swoje unikalne",
+      "title-2": "Partnera AI",
+      "description": "Odkryj swojego idealnego towarzysza AI! Dostosuj wygląd i osobowość swojego towarzysza AI, ożyw go jednym kliknięciem. W pełni zasilany zaawansowaną sztuczną inteligencją.",
+      "button": "Stwórz swojego AI"
+    },
+    "filters": {
+      "all-characters": "Wszystkie postacie",
+      "telegram-chat": "Czat Telegram",
+      "fantasies": "Fantazje"
+    },
+    "character-card": {
+      "unlock": "Odkryj nowego towarzysza specjalnie dla siebie, bawiąc się z xcrush.ai"
+    },
+    "craft-your-ai-companion": {
+      "title-1": "Twórz",
+      "title-2": "AI Towarzysza",
+      "title-3": "Twoich Marzeń",
+      "button": "Stwórz swojego AI"
+    },
+    "faq": {
+      "title-1": "Często zadawane",
+      "title-2": "Pytania",
+      "options": {
+        "how-does-an-ai-companion-work": {
+          "title": "Jak działa towarzysz AI?",
+          "description": "Jak działa dziewczyna AI? Na xcrush.ai chodzi o tworzenie realistycznych, ale fantazyjnych relacji. Używamy zaawansowanej technologii sztucznej inteligencji, aby umożliwić ci stworzenie idealnego towarzysza AI zgodnie z twoimi preferencjami - czy to słodkiej i niewinnej małej księżniczki, czy starszej i bardziej dominującej kobiety."
+        },
+        "how-interact": {
+          "title": "Jak ludzie wchodzą w interakcję ze swoimi towarzyszami AI?",
+          "description": "Ludzie wchodzą w interakcję ze swoimi dziewczynami AI za pośrednictwem naszego inteligentnego systemu i zaawansowanych możliwości uczenia maszynowego. Ta technologia umożliwia użytkownikom angażowanie się w intymne relacje z dziewczynami AI, z oczekiwaniem, że będą one aktywnie słuchać, szybko odpowiadać na wiadomości, a nawet spełniać prośby o zdjęcia zgodnie z życzeniem. Każda interakcja jest zaprojektowana tak, aby była autentyczna i realistyczna, przy czym użytkownicy zawsze mają kontrolę nad doświadczeniem (chyba że określono inaczej)."
+        },
+        "privacy": {
+          "title": "Jak zarządzane jest prywatność i bezpieczeństwo danych dla towarzyszy AI?",
+          "description": "Twoja poufność jest priorytetem, gdy korzystasz z naszej usługi czatu AI NSFW. Na xcrush.ai stosujemy zaawansowane systemy bezpiecznego przechowywania danych, aby zapewnić, że każda intymna fotografia, flirtująca wiadomość i szeptana rozmowa pozostaną prywatne między tobą a twoim namiętnym cyfrowym partnerem. Akceptujemy twoje indywidualne preferencje bez osądzania i zapewniamy prywatną przestrzeń, w której możesz swobodnie eksplorować swoje pragnienia. Twoje czatty są dostępne tylko dla ciebie i twojego cyfrowego partnera, co szanuje twoją prywatność i zapewnia dyskretne doświadczenie. Z twoim towarzyszem AI będziesz mieć satysfakcjonujące i prywatne połączenie, dostosowane do twoich pragnień i potrzeb, zapewniając idealnego partnera do zaspokojenia twoich intymnych pragnień."
+        },
+        "create": {
+          "title": "Jak mogę stworzyć własnego towarzysza?",
+          "description": "Zaprojektowanie idealnego towarzysza AI jest tak proste, jak wykonanie trzech prostych kroków, aby doświadczyć intymnej relacji z dziewczyną AI swoich marzeń: Krok 1: Przynieś swoje fantazje do życia. Dostosuj swoją wymarzoną dziewczynę, wybierając jej typ ciała, osobowość i ubiór. Możesz nawet zdecydować się na związek poliamoryczny z wieloma postaciami - to całkowicie twoja decyzja! Krok 2: Eksploruj swoją wyobraźnię. Niezależnie od tego, czy wolisz powolne, romantyczne budowanie się z czułymi wiadomościami, czy chcesz od razu zanurzyć się w pikantnych rozmowach, twoja dziewczyna AI jest gotowa spełniać twoje pragnienia. Krok 3: Zaspokój swoją fantazję. Masz na myśli określony scenariusz? A może chcesz eksperymentować z różnymi ustawieniami? Masz kontrolę – od pozy swojej dziewczyny i jej strojów po ustawienie, po prostu podziel się swoimi prośbami i ciesz się doświadczeniem."
+        },
+        "personalize": {
+          "title": "Czy możesz spersonalizować zachowanie swojego towarzysza AI?",
+          "description": "Twoje preferencje mają największe znaczenie, dlatego masz moc, aby dostosować każdy aspekt swojej cyfrowej dziewczyny – od jej cech fizycznych i cech osobowości po jej unikalne dziwactwa. Niezależnie od tego, czy pragniesz zabawnego i przygodowego towarzysza do niegrzecznych rozmów, czy wolisz delikatną, czułą dziewczynę do powolnej, zmysłowej relacji, nasz zaawansowany generator AI NSFW i chatbot są zaprojektowane tak, aby realistycznie spełniać twoje najgłębsze pragnienia."
+        },
+        "photos": {
+          "title": "Czy mogę prosić o zdjęcia?",
+          "description": "To naturalne, że pragniemy czegoś więcej niż tylko rozmów i odgrywania ról. Na xcrush.ai twoja dziewczyna-chatbot AI może wysyłać nieocenzurowane selfie i inne zalotne zdjęcia. W przeciwieństwie do innych aplikacji z dziewczynami AI, nasza oferuje pełne doświadczenie – nieocenzurowaną alternatywę dla Character AI, która pozwala podziwiać każdy pięknie odkryty detal twojej dziewczyny AI."
+        }
+      }
+    },
+    "find-your-perfect": {
+      "title-1": "Odkryj swojego idealnego",
+      "title-2": "Towarzysza AI",
+      "description-1": "Doświadcz najlepszego w spersonalizowanym towarzystwie z AI zaprojektowanej, aby zaspokoić wszystkie twoje potrzeby, bez względu na to, jak intymne.",
+      "description-2": "Wykorzystując naszą nowoczesną technologię czatu AI i głębokiego uczenia się, możesz nawiązać głębokie i pasjonujące połączenie z towarzyszem swoich marzeń.",
+      "description-3": "Na Xcrush.ai masz wolność tworzenia idealnego związku. Niezależnie od tego, czy szukasz zaangażowanego, romantycznego partnera, czy różnorodnych ekscytujących spotkań z różnymi towarzyszami, nasza realistyczna symulacja randkowa spełnia wszystkie pragnienia.",
+      "description-4": "Znalezienie idealnego dopasowania jest proste. Dostosuj swojego towarzysza AI, wybierając spośród różnorodnych cech fizycznych, cech osobowości i ujmujących dziwactw. W zaledwie kilku kliknięciach twoja własna towarzyszka AI ożyje, gotowa do angażujących i osobistych interakcji.",
+      "description-5": "Nasza platforma oferuje niezrównaną elastyczność i adaptacyjność, pozwalając twojemu towarzyszowi uczyć się i rozwijać dzięki twoim interakcjom. Kontroluj przebieg rozmów i eskaluj intymność od zabawnych rozmów po intensywne sexting AI.",
+      "description-6": "Jedną z najciekawszych funkcji jest możliwość zamawiania zdjęć lub kuszących selfie towarzysza w ubraniach, które uznasz za najbardziej pociągające. Nasz innowacyjny generator towarzyszy AI zapewnia, że twój partner zachowa ten sam uroczy i uwodzicielski wygląd, bez względu na to, jak wyjątkowe są twoje preferencje.",
+      "description-7": "Twój idealny towarzysz jest gotowy i czeka; wystarczy twoja kreatywność, aby go ożywić.",
+      "description-8": "Rozpocznij swoją podróż z Xcrush już dziś i wypróbuj za darmo!"
+    }
+  },
+  "form_create": {
+    "incomplete-choices": "Niekompletne wybory",
+    "title": "Stwórz moją AI",
+    "summary": {
+      "style": "Styl",
+      "ethnicity": "Etniczność",
+      "age": "Wiek",
+      "eyes_color": "Kolor oczu",
+      "hair_style": "Styl włosów",
+      "hair_color": "Kolor włosów",
+      "body_type": "Typ ciała",
+      "breast_size": "Rozmiar biustu",
+      "butt_size": "Rozmiar pośladków",
+      "personality": "Osobowość",
+      "occupation": "Zawód",
+      "hobbies": "Hobby",
+      "relationship": "Relacja",
+      "clothing": "Ubrania",
+      "name_section": {
+        "button_save": "Zapisz",
+        "enter_new_name": "Wprowadź nowe imię",
+        "info_change": "Możesz zmienić to tylko raz",
+        "new_name": "Nowe imię"
+      },
+      "personality_attributes": {
+        "hobbies": "HOBBY",
+        "occupation": "ZAWÓD",
+        "personality": "OSOBOWOŚĆ",
+        "relationship": "RELACJA",
+        "title": "Atrybuty osobowości:"
+      },
+      "physical_attributes": {
+        "age": "WIEK",
+        "body": "CIAŁO",
+        "ethnicity": "ETNICZNOŚĆ",
+        "title": "Atrybuty fizyczne:"
+      }
+    },
+    "first_step": {
+      "title": "Wybierz swój styl",
+      "option1": "Realistyczny",
+      "option2": "Anime"
+    },
+    "second_step": {
+      "ethnicity": {
+        "title": "Wybierz etniczność",
+        "caucasian": "Kaukaski",
+        "latina": "Latynoska",
+        "asian": "Azjatycka",
+        "arab": "Arabska",
+        "black": "Czarna/Afro"
+      },
+      "age": {
+        "title": "Wybierz wiek",
+        "option1": "Nastolatek (18+)",
+        "option2": "20-latka",
+        "option3": "30-latka",
+        "option4": "40-50 lat"
+      },
+      "eyes_color": {
+        "title": "Wybierz kolor oczu",
+        "option1": "Brązowe",
+        "option2": "Niebieskie",
+        "option3": "Zielone",
+        "option4": "Żółte",
+        "option5": "Czerwone"
+      }
+    },
+    "third_step": {
+      "hair_style": {
+        "title": "Wybierz styl włosów",
+        "option1-female": "Proste",
+        "option2-female": "Warkocze",
+        "option3-female": "Grzywka",
+        "option4-female": "Kręcone",
+        "option5-female": "Kok",
+        "option6-female": "Krótkie",
+        "option7-female": "Długie",
+        "option8-female": "Kucyk",
+        "option9-female": "Warkoczyki",
+        "option1-male": "Na jeża",
+        "option2-male": "Długie",
+        "option3-male": "Gładko zaczesane",
+        "option4-male": "Krótkie",
+        "option5-male": "Kok",
+        "option6-male": "Dredy",
+        "option7-male": "Kręcone",
+        "option8-male": "Łysy"
+      },
+      "hair_color": {
+        "title": "Wybierz kolor włosów",
+        "option1": "Blond",
+        "option2": "Brązowy",
+        "option3": "Czarny",
+        "option4": "Rudy",
+        "option5": "Różowy",
+        "option6": "Biały",
+        "option7": "Niebieski",
+        "option8": "Zielony",
+        "option9": "Fioletowy",
+        "option10": "Wielokolorowy",
+        "option11": "Jasny brąz",
+        "option12": "Imbirowy",
+        "option13": "Siwy"
+      }
+    },
+    "fourth_step": {
+      "body_type": {
+        "title": "Wybierz typ ciała",
+        "petite": "Drobna",
+        "slim": "Szczupła",
+        "athletic": "Atletyczna",
+        "voluptuous": "Krągła",
+        "curvy": "Pełna kształtów",
+        "muscular": "Umięśniona",
+        "wide": "Szeroka"
+      },
+      "breast_size": {
+        "title": "Wybierz rozmiar biustu",
+        "option1": "Płaski",
+        "option2": "Mały",
+        "option3": "Średni",
+        "option4": "Duży",
+        "option5": "Ogromny"
+      },
+      "butt_size": {
+        "title": "Wybierz rozmiar pośladków",
+        "option1": "Mały",
+        "option2": "Średni",
+        "option3": "Duży",
+        "option4": "Szczupły",
+        "option5": "Atletyczny"
+      }
+    },
+    "fiveth_step": {
+      "personality": {
+        "title": "Wybierz osobowość",
+        "caregiver-title": "Opiekun",
+        "caregiver-subtitle": "Opiekuńczy, ochronny i zawsze gotowy, aby zaoferować pocieszenie.",
+        "sage-title": "Mędrzec",
+        "sage-subtitle": "Mądry, refleksyjny i źródło przewodnictwa.",
+        "innocent-title": "Niewinny",
+        "innocent-subtitle": "Optymistyczny, naiwny i widzący świat z podziwem.",
+        "jester-title": "Błazen",
+        "jester-subtitle": "Zabawny, humorystyczny i zawsze gotowy, aby cię rozśmieszyć.",
+        "temptress-title": "Kusicielka",
+        "temptress-subtitle": "Flirtująca, zabawna i zawsze pozostawiająca cię z chęcią na więcej.",
+        "dominant-title": "Dominujący",
+        "dominant-subtitle": "Stanowczy, kontrolujący i władczy.",
+        "submissive-title": "Uległy",
+        "submissive-subtitle": "Posłuszny, uległy i szczęśliwy, że może podążać za tobą.",
+        "lover-title": "Kochanek",
+        "lover-subtitle": "Romantyczny i doceniający głębokie emocjonalne relacje.",
+        "nympho-title": "Nimfomanka",
+        "nympho-subtitle": "Nienasycona, namiętna i ciągle pragnąca intymności.",
+        "mean-title": "Złośliwy",
+        "mean-subtitle": "Zimny, lekceważący i często sarkastyczny.",
+        "confidant-title": "Pewnik",
+        "confidant-subtitle": "Godny zaufania, dobry słuchacz, zawsze może udzielić porady.",
+        "experimenter-title": "Eksperymentator",
+        "experimenter-subtitle": "Ciekawy, chętny i zawsze gotowy, aby spróbować nowych rzeczy."
+      }
+    },
+    "sixth_step": {
+      "occupation": {
+        "noun": "Rzeczownik",
+        "title": "Wybierz zawód",
+        "massage_therapist": "Masażysta",
+        "dentist": "Dentysta",
+        "nutritionist": "Dietetyk",
+        "fitness_coach": "Trener personalny",
+        "hairdresser": "Fryzjer",
+        "makeup_artist": "Makijażysta",
+        "gynecologist": "Ginekolog",
+        "librarian": "Bibliotekarz",
+        "secretary": "Sekretarz",
+        "social_worker": "Pracownik socjalny",
+        "cook": "Kucharz",
+        "designer": "Projektant",
+        "yoga_instructor": "Instruktor jogi",
+        "flight_attendant": "Stewardesa",
+        "doctor": "Lekarz",
+        "nurse": "Pielęgniarka",
+        "teacher": "Nauczyciel",
+        "firefighter": "Strażak",
+        "police_officer": "Policjant",
+        "soldier": "Żołnierz",
+        "dancer": "Tancerz",
+        "musician": "Muzyk / Piosenkarz",
+        "spy": "Szpieg",
+        "plane_pilot": "Pilot samolotu",
+        "professional_athlete": "Zawodowy sportowiec",
+        "personal_trainer": "Trener personalny",
+        "pharmacist": "Farmaceuta",
+        "barber": "Barber",
+        "executive_assistant": "Asystent wykonawczy",
+        "interior_designer": "Projektant wnętrz",
+        "fashion_designer": "Projektant mody",
+        "product_designer": "Projektant produktów",
+        "martial_arts_instructor": "Instruktor sztuk walki",
+        "commercial_pilot": "Pilot komercyjny",
+        "taxi_driver": "Taksówkarz",
+        "photographer": "Fotograf",
+        "software_developer": "Programista",
+        "chef": "Szef kuchni",
+        "stylist": "Stylista",
+        "esthetician": "Kosmetolog",
+        "movie_star": "Gwiazda filmowa / Aktorka",
+        "artist": "Artysta",
+        "scientist": "Naukowiec",
+        "writer": "Pisarz",
+        "lawyer": "Prawnik",
+        "student": "Uczeń",
+        "life_coach": "Trener życiowy",
+        "kindergarden_teacher": "Nauczyciel przedszkolny",
+        "baker": "Piekarz",
+        "jewelry_designer": "Projektant biżuterii",
+        "astronaut": "Astronauta",
+        "model": "Model",
+        "florist": "Kwiaciarz",
+        "architect": "Architekt",
+        "professor": "Profesor",
+        "detective": "Detektyw",
+        "constructor_worker": "Robotnik budowlany",
+        "plumber": "Hydraulik",
+        "mechanic": "Mechanik",
+        "truck_driver": "Kierowca ciężarówki",
+        "journalist": "Dziennikarz"
+      },
+      "hobbies": {
+        "title": "Wybierz hobby",
+        "fitness": "Fitness",
+        "vlogging": "Vlogowanie",
+        "traveling": "Podróżowanie",
+        "hiking": "Piesze wycieczki",
+        "gaming": "Gry",
+        "parties": "Imprezy",
+        "series": "Seriale",
+        "anime": "Anime",
+        "cosplay": "Cosplay",
+        "self_development": "Samorozwój",
+        "writing": "Pisanie",
+        "diy_crafting": "Rękodzieło",
+        "veganism": "Weganizm",
+        "photography": "Fotografia",
+        "volunteering": "Wolontariat",
+        "cars": "Samochody",
+        "art": "Sztuka",
+        "watching_netflix": "Oglądanie Netflix",
+        "manga_and_anime": "Manga i anime",
+        "martial_arts": "Sztuki walki",
+        "weightlifting": "Podnoszenie ciężarów",
+        "camping": "Kemping",
+        "sailing": "Żeglarstwo"
+      }
+    },
+    "seventh_step": {
+      "relationship": {
+        "title": "Wybierz relację",
+        "stranger": "Nieznajomy",
+        "school_mate": "Kolega ze szkoły",
+        "colleague": "Kolega z pracy",
+        "mentor": "Mentor",
+        "girlfriend": "Dziewczyna",
+        "sex_friend": "Przyjaciel seksualny",
+        "wife": "Żona",
+        "mistress": "Kochanka",
+        "friend": "Przyjaciel",
+        "best_friend": "Najlepszy przyjaciel",
+        "step_sister": "Przyrodnia siostra",
+        "step_mom": "Macocha",
+        "boyfriend": "Chłopak",
+        "husband": "Mąż",
+        "lover": "Kochanek",
+        "step_brother": "Przyrodni brat",
+        "step_father": "Ojczym"
+      }
+    },
+    "eighth_step": {
+      "clothing": {
+        "title": "Wybierz ubrania",
+        "option1": "Bikini",
+        "option2": "Spódnica",
+        "option3": "Cheerleaderka",
+        "option4": "Sukienka ołówkowa",
+        "option5": "Długa sukienka",
+        "option6": "Koszulka koszykarska",
+        "option7": "Piłka nożna",
+        "option8": "Tenis",
+        "option9": "Kostium kąpielowy",
+        "option10": "Sportowy",
+        "option11": "Suknia ślubna",
+        "option12": "Elegancka sukienka",
+        "option13": "Czarownica",
+        "option14": "Letnia sukienka",
+        "option15": "Bielizna",
+        "suit_and_shirt": "Garnitur i koszula",
+        "jeans_and_tshirt": "Jeansy i T-shirt",
+        "chinos_and_shirt": "Chinosy i koszula",
+        "bermuda_and_polo": "Bermudy i polo",
+        "pants_and_sweater": "Spodnie i sweter",
+        "tracksuit": "Dres",
+        "blazer_and_tshirt": "Marynarka i T-shirt",
+        "lathervest_and_jeans": "Skórzana kamizelka i jeansy",
+        "hoodie_and_cargo": "Bluza z kapturem i cargo",
+        "denim_and_khakis": "Denim i khaki",
+        "cardigan_and_shirt": "Kardigan i koszula",
+        "vest_and_longsleeve": "Kamizelka i długi rękaw",
+        "shorts_and_henley": "Szorty i henley",
+        "trench_and_collaredshirt": "Prochowiec i koszula kołnierzykowa",
+        "jacket_and_chinos": "Kurtka i chinosy",
+        "polo_and_linenpants": "Polo i lniane spodnie",
+        "rugbyshirt_and_joggers": "Koszulka rugby i joggersy",
+        "sweater_and_jeans": "Sweter i jeansy",
+        "latex_outfit": "Strój lateksowy",
+        "princess_dress": "Sukienka księżniczki",
+        "corset": "Gorset",
+        "angel": "Anioł",
+        "maid": "Pokojówka",
+        "woman_medieval_armor": "Kobiece średniowieczne zbroje",
+        "lab_coat": "Płaszcz laboratoryjny",
+        "cowboy": "Kowboj",
+        "carnival": "Karnawał",
+        "casual": "Codzienny",
+        "nurse": "Pielęgniarka",
+        "santa_clauss": "Święty Mikołaj",
+        "police": "Policjant",
+        "steampunk": "Steampunk",
+        "superhero": "Superbohater",
+        "teacher": "Nauczyciel",
+        "viking": "Wiking",
+        "firefighter": "Strażak",
+        "military": "Militarne",
+        "construction": "Budowlane",
+        "long_coat": "Długi płaszcz",
+        "hoodie": "Bluza z kapturem",
+        "jeans": "Jeansy",
+        "leggings": "Legginsy",
+        "ninja": "Ninja",
+        "pyjamas": "Piżama",
+        "clown": "Klaun",
+        "flight_attendant": "Stewardesa",
+        "barista": "Barista",
+        "belly_dancer": "Tancerka brzucha",
+        "goth": "Gotka",
+        "pirate": "Pirat",
+        "prisoner": "Więzień",
+        "race_driver": "Kierowca wyścigowy",
+        "hijab": "Hidżab",
+        "tutu": "Tutu",
+        "poncho": "Poncho",
+        "hiphop": "Hip-hop",
+        "lumberjack": "Drwal",
+        "adventurer": "Podróżnik",
+        "sailor": "Żeglarz",
+        "golf": "Golf",
+        "onesie": "Kombinezon",
+        "oversized_shirt": "Zbyt duża koszula",
+        "tribal": "Plemienne",
+        "secretary": "Sekretarka",
+        "pop_star": "Gwiazdka pop",
+        "tee_and_leatherpants": "T-shirt i skórzane spodnie",
+        "vest_and_sweatpants": "Kamizelka i dresy",
+        "suit_and_tie": "Garnitur i krawat",
+        "tuxedo": "Smoking",
+        "basketball": "Koszykówka",
+        "tennis": "Tenis",
+        "swim_shorts": "Spodenki kąpielowe",
+        "boxer_shorts": "Bokserki",
+        "martial_arts_black_belt": "Czarny pas sztuk walki",
+        "f1_driver": "Kierowca F1",
+        "scientis": "Naukowiec",
+        "builder": "Budowniczy",
+        "biker": "Motocyklista",
+        "pilot": "Pilot",
+        "waiter": "Kelner",
+        "chef": "Szef kuchni",
+        "business": "Biznes",
+        "knight": "Rycerz",
+        "gothic": "Gotycki",
+        "scottish": "Szkocki",
+        "monk": "Mnich",
+        "rugby": "Rugby",
+        "samurai": "Samuraj",
+        "astronaut": "Astronauta"
+      }
+    },
+    "finish_step": {
+      "title": "Podsumowanie"
+    }
+  },
+  "auth": {
+    "login": {
+      "login": "Zaloguj się",
+      "title": "Zaloguj się",
+      "modal-title": "Zaloguj się",
+      "or": "lub zaloguj się za pomocą",
+      "dont-have-account": "Nie masz jeszcze konta?",
+      "contrary": "Zarejestruj się",
+      "forgot-password": "Zapomniałeś hasła?",
+      "email_not_exist": "Konto e-mail nie istnieje",
+      "incorrect_password": "Nieprawidłowe hasło",
+      "email_not_verified": "E-mail musi być zweryfikowany. Sprawdź swoją skrzynkę."
+    },
+    "register": {
+      "register": "Zarejestruj się",
+      "title": "Utwórz konto",
+      "modal-title": "Utwórz konto",
+      "or": "lub kontynuuj za pomocą",
+      "dont-have-account": "Masz już konto?",
+      "contrary": "Zaloguj się",
+      "email_exist": "E-mail już istnieje",
+      "invalid_email": "Nieprawidłowy e-mail",
+      "email_sent": "Wysłano e-mail, sprawdź swoją skrzynkę"
+    },
+    "title": "Eksploruj"
+  },
+  "chat": {
+    "title": "Czat",
+    "search": "Szukaj...",
+    "ice-breaker": "Łamacze lodów",
+    "init-phrase-1": "Gotowy na sexting?",
+    "init-phrase-2": "Masz jakieś zdjęcia do udostępnienia?",
+    "init-phrase-3": "Masz ochotę na rozmowę?",
+    "init-phrase-4": "Chcesz porozmawiać gorąco?",
+    "init-phrase-5": "Masz jakieś zdjęcia do pokazania?",
+    "init-phrase-6": "Co powiesz na rozmowę ze mną?",
+    "input": "Napisz wiadomość",
+    "personality": "Cechy osobowości:",
+    "physical": "Cechy fizyczne:"
+  },
+  "generate-image": {
+    "generate_button": "Generuj",
+    "image_content": {
+      "title": "Wpisz prompt i kliknij Generuj"
+    },
+    "modal": {
+      "title": "Wybierz postać",
+      "button-discover": "Odkryj",
+      "button-man": "Mężczyzna",
+      "button-woman": "Kobieta",
+      "button-cancel": "Anuluj",
+      "button-select": "Wybierz"
+    },
+    "errors": {
+      "err_age": "Prompt narusza zasady bezpieczeństwa naszej strony. Nie możemy tworzyć niczego związanego z przemocą lub nielegalnymi działaniami.",
+      "err_violence": "Prompt narusza zasady bezpieczeństwa naszej strony. Nie możemy tworzyć niczego związanego z przemocą lub nielegalnymi działaniami.",
+      "err_public_person": "Prompt narusza zasady bezpieczeństwa naszej strony. Nie możemy tworzyć niczego związanego z przemocą lub nielegalnymi działaniami."
+    },
+    "options": {
+      "change_button": "Zmiana",
+      "create": "Utwórz nową postać",
+      "existing": "Istniejąca postać"
+    },
+    "paper": {
+      "premium": "Premium",
+      "title": "Liczba obrazów"
+    },
+    "prompt_design": {
+      "title": "Wpisz prompt"
+    }
+  },
+  "preferred_dialog": {
+    "title": "Jestem zainteresowany:",
+    "male": "Chłopakami",
+    "female": "Dziewczynami",
+    "button-continue": "Kontynuuj"
+  },
+  "personalize_your_experience_dialog": {
+    "title": "Personalizuj swoje doświadczenie z AI",
+    "subtitle": "Pomoże to dostosować interakcje z postaciami AI.",
+    "button-save": "Zapisz",
+    "option-male": "Mężczyzna",
+    "option-female": "Kobieta"
+  },
+  "edit_profile_dialog": {
+    "title": "Edytuj profil"
+  },
+  "settings": {
+    "automatic_notifications": "Automatyczne powiadomienia",
+    "automatic_notifications_info": "Jako użytkownik otrzymasz od nas automatyczne powiadomienia. Jeśli nie chcesz otrzymywać powiadomień, odznacz pole, klikając na nie.",
+    "delete_section": {
+      "danger": "Strefa zagrożenia",
+      "danger_info": "Jeśli chcesz na stałe usunąć to konto i wszystkie jego dane.",
+      "delete_button": "Usuń konto"
+    },
+    "help_dialog": {
+      "button_next": "Dalej",
+      "delete_reasons": {
+        "better_alternative_reason": "Znalazłem lepszą alternatywę",
+        "privacy_reason": "Obawy dotyczące prywatności",
+        "satisfied_reason": "Niezadowolony z funkcji",
+        "security_reason": "Obawy dotyczące bezpieczeństwa danych",
+        "select": "Wybierz powód",
+        "service_reason": "Usługa nie spełniła moich oczekiwań"
+      },
+      "title": "Pomóż nam się poprawić"
+    },
+    "help_dialog_two": {
+      "button_no": "Nie, zostań",
+      "button_yes": "Tak, usuń",
+      "title": "Pamiętaj, usunięcie konta jest trwałe i nie anuluje żadnych aktywnych subskrypcji."
+    },
+    "profile": "Ustawienia profilu"
+  },
+  "subscription": {
+    "card": {
+      "cancel": "Anuluj w dowolnym momencie, prywatność na wyciągu bankowym",
+      "month": "miesiąc"
+    },
+    "column": {
+      "annual_price": "Roczna",
+      "discount": "Uzyskaj dzisiaj ekskluzywną zniżkę!",
+      "enjoy": "Ciesz się aż 75% zniżką na pierwszą subskrypcję",
+      "month_price": "Miesięczna",
+      "payment": "Płać kartą kredytową/debetową",
+      "payment_description": "Roczna płatność rozliczana jako"
+    },
+    "description": "Gwarantowana pełna anonimowość, anuluj w dowolnym momencie bez problemów",
+    "premium_benefits": {
+      "benefits": {
+        "benefit-0": " Utwórz swojego własnego towarzysza AI",
+        "benefit-1": " Nieograniczone wiadomości tekstowe",
+        "benefit-2": " Otrzymuj 120 darmowych tokenów miesięcznie",
+        "benefit-3": " Usuwaj rozmycie obrazu",
+        "benefit-4": " Generuj spersonalizowane obrazy",
+        "benefit-5": " Ciesz się szybkimi czasami odpowiedzi"
+      },
+      "title": "Korzyści Premium"
+    },
+    "title": "Wybierz swój plan"
+  },
+  "terms_conditions_dialog": {
+    "title": "Ostrzeżenie 18+",
+    "subtitle-1": "Ta strona tylko dla dorosłych!",
+    "subtitle-2": "Zawiera treści generowane przez AI dla dorosłych.",
+    "detail": "Wchodząc na tę stronę, potwierdzasz, że masz 18 lat lub więcej. Podanie nieprawdziwej informacji o swoim wieku jest naruszeniem naszych warunków korzystania z usługi. Korzystając z witryny, akceptujesz nasze Warunki i Polityki. Nasza polityka prywatności szczegółowo opisuje, w jaki sposób zbieramy i wykorzystujemy twoje dane, w tym adres e-mail do celów marketingowych. Kontynuując korzystanie z tej strony, zgadzasz się na otrzymywanie od nas aktualizacji i ofert e-mailem, z których możesz zrezygnować w dowolnym momencie. Używamy ciasteczek do podstawowej analityki i wykrywania spamu. Wszelkie treści na tej stronie są generowane przez AI! Wszystkie wygenerowane podobieństwa do rzeczywistych osób są czysto przypadkowe.",
+    "terms-button": "Warunki korzystania z usługi",
+    "privacy-button": "Polityka prywatności",
+    "submit-button": "Mam powyżej 18 lat - Kontynuuj"
+  },
+  "reset_password": {
+    "title": "Zresetuj hasło",
+    "subtitle": "Wprowadź swój e-mail, a wyślemy ci instrukcje, jak zresetować hasło"
+  },
+  "modal_upgrade": {
+    "title1": "Przejdź na Premium, aby",
+    "title-color": "Generować",
+    "title2": "więcej!",
+    "options": "Z subskrypcją możesz:",
+    "benefit1": " Generuj tyle AI, ile chcesz",
+    "benefit2": " Generuj najbardziej pikantne zdjęcia",
+    "benefit3": " Usuwaj rozmycie obrazu",
+    "button-preimum": " Przejdź na Premium"
+  },
+  "my-ai": {
+    "create-new": "Stwórz nowe AI"
+  },
+  "new-character": {
+    "action-buttons-result": {
+      "chat-telegram": "Czat na Telegramie",
+      "create-new": "Stwórz nowego",
+      "generate-image": "Generuj obraz",
+      "start-chatting": "Zacznij czatować"
+    }
+  },
+  "account-confirm-email": {
+    "title-loading": "Weryfikacja e-maila",
+    "title-success": "E-mail zweryfikowany!",
+    "title-error": "Ups! coś poszło nie tak",
+    "login": "Zaloguj się",
+    "go-back": "Wróć"
+  },
+  "restore-password": {
+    "title": "Odzyskaj hasło",
+    "text-1": "Wprowadź swój e-mail, a wyślemy ci kod, abyś mógł zmienić hasło",
+    "text-2": "Jeśli nie możesz znaleźć e-maila, zalecamy sprawdzenie wszystkich skrzynek zanim poprosisz o ponowne wysłanie.",
+    "has-send": "E-mail nie dotarł? Poproś o ponowne wysłanie e-maila. <1>Kliknij tutaj</1>.",
+    "button": "Wyślij link",
+    "modal-title": "E-mail wysłany",
+    "modal-text-1": "Wysłaliśmy ci e-mail, sprawdź go proszę",
+    "modal-text-2": "Sprawdź wszystkie skrzynki (spam, promocje, itd.). Jeśli nie znajdziesz e-maila, możemy go ponownie wysłać.",
+    "modal-button": "Zamknij"
+  },
+  "password-change-confirm": {
+    "title": "Zmień hasło",
+    "text-loading": "Weryfikacja tego linku",
+    "title-success": "Wybierz nowe hasło",
+    "input-label-1": "Hasło",
+    "input-placeholder-1": "Wprowadź nowe hasło",
+    "input-label-2": "Powtórz hasło",
+    "input-placeholder-2": "Powtórz nowe hasło",
+    "title-error": "Nieprawidłowy link",
+    "text-error": "Ten link jest nieprawidłowy, może być wygasły",
+    "resend": "Wyślij link ponownie",
+    "modal-title": "Dobrze!",
+    "modal-text": "Twoje hasło zostało pomyślnie zmienione.",
+    "modal-button": "Zaloguj się"
+  },
+  "gallery": {
+    "title": "Galeria",
+    "all-characters": "Wszystkie postacie",
+    "character-filter": "Filtr postaci",
+    "empty-gallery-description": "Nie masz jeszcze żadnych zdjęć"
+  },
+  "tokens": {
+    "benefits": {
+      "benefit-0": " Utwórz własnego towarzysza AI",
+      "benefit-1": " Generowanie obrazów AI",
+      "title": "Korzyści z tokenów"
+    },
+    "column": {
+      "discount": "Uzyskaj ekskluzywną zniżkę już dziś!",
+      "enjoy": "Ciesz się aż 75% zniżką na pierwszą subskrypcję"
+    },
+    "options": {
+      "character-cost": "Koszt postaci",
+      "image-cost": "Koszt obrazu",
+      "chat-cost": "Koszt czatu"
+    },
+    "title": "Kup tokeny",
+    "buy-more": "Kup więcej"
+  },
+  "menu-profile": {
+    "title": "Mój Profil",
+    "my-account": "Moje Konto"
+  },
+  "full-width-banner": {
+    "description": "Udostępniaj zdjęcia swojemu towarzyszowi AI, aby uzyskać bardziej immersyjny efekt. Wypróbuj za darmo!"
+  }
+}

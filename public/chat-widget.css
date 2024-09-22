@@ -1,0 +1,130 @@
+/* chat-widget.css */
+
+/* Estilos generales del contenedor del chat */
+#chat-widget-container {
+    position: fixed;
+    bottom: 90px;
+    right: 25px;
+    width: 600px;
+    height: 0;
+    transition: height 0.3s ease;
+    z-index: 1000;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.3); /* Añade sombra al contenedor del chat */
+}
+
+/* Estilos generales del iframe del chat */
+#chat-widget-container iframe {
+    width: 100%;
+    height: 100%;
+    border: none;
+}
+
+/* Estilos de la burbuja de chat */
+#chat-bubble {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 60px;
+    height: 60px;
+    background-color: #0c0701;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    cursor: pointer;
+    z-index: 1000;
+    transition: transform 0.3s ease, filter 0.3s ease;
+}
+
+#chat-bubble:hover {
+    transform: scale(1.05); /* Agranda la burbuja */
+}
+
+#chat-close-container {
+    width: 100%;
+    background-color: #000; /* Fondo negro */
+    height: 40px; /* Ajusta el alto según el tamaño que prefieras */
+    display: flex;
+    align-items: center;
+    justify-content: flex-end; /* Alineamos la cruz a la derecha */
+}
+
+#chat-close-button {
+    margin-right: 10px; /* Espacio a la derecha dentro del contenedor */
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+    z-index: 1001;
+}
+
+
+/* Ajustes para pantallas pequeñas (móviles) */
+@media (max-width: 768px) {
+    #chat-widget-container {
+        width: 100%;
+        height: 100%;
+        height: 0;
+        bottom: 0;
+        right: 0;
+        left: 0;
+        border-radius: 0; /* Sin bordes redondeados en pantalla completa */
+        box-shadow: none; /* Sin sombras en pantalla completa */
+    }
+
+    #chat-widget-container iframe {
+        height: 100%;
+    }
+
+    #chat-bubble {
+        width: 50px;
+        height: 50px;
+        bottom: 15px;
+        right: 15px;
+    }
+
+    #chat-close-button {
+        width: 30px;
+        height: 30px;
+        font-size: 18px;
+    }
+
+    #chat-close-container {
+        height: 35px; /* Ajustamos el alto en móvil */
+    }
+}
+
+/* Ajustes para pantallas aún más pequeñas (smartphones) */
+@media (max-width: 480px) {
+    #chat-widget-container {
+        width: 100%;
+        height: 0;
+        bottom: 0;
+        right: 0;
+        left: 0;
+        border-radius: 0;
+        box-shadow: none;
+    }
+
+    #chat-widget-container iframe {
+        height: 100%;
+    }
+
+    #chat-bubble {
+        width: 40px;
+        height: 40px;
+        bottom: 10px;
+        right: 10px;
+    }
+}
+
