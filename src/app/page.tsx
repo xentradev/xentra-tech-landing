@@ -4,7 +4,7 @@ export default async function Home(context: any) {
   try {
     return (
       <Grid container justifyContent={"center"}>
-        <h1>HOME</h1>
+        <h1>LANDING</h1>
       </Grid>
     );
   } catch (e) {

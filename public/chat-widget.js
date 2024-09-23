@@ -1,6 +1,6 @@
 (async function () {
   // VARIABLES DE CONFIGURACION
-  const DESKTOP_CHAT_HEIGHT = "60vh";
+  const DESKTOP_CHAT_HEIGHT = "65vh";
   const BUBBLE_ICON_CLOSED =
     "https://xcrush-qa.s3.us-east-1.amazonaws.com/tmp/brain-icon-white.png";
   const BUBBLE_ICON_OPENED =
@@ -45,7 +45,7 @@
 
     // Crear el iframe para el chat
     const iframe = document.createElement("iframe");
-    iframe.src = `${chatHost}/chat/INM-UY/${businessId}`; // URL del chat
+    iframe.src = `${chatHost}/chat/INM-UY/${businessId}?without_chat_bubble=true`; // URL del chat
 
     chatContainer.appendChild(iframe);
 

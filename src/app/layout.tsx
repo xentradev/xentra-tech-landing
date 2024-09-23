@@ -10,6 +10,7 @@ import { NextIntlClientProvider } from "next-intl";
 import { getLocale, getMessages } from "next-intl/server";
 
 import "./globals.css";
+import ChatWidget from "@/components/ChatWidget";
 const inter = Inter({ subsets: ["latin"] });
 
 export default async function RootLayout({
@@ -38,6 +39,7 @@ export default async function RootLayout({
         <link rel="apple-touch-icon" href="/icon.png"></link>
         <link rel="apple-touch-icon-precomposed" href="/icon.png"></link>
         <link rel="icon" href="/favicon.ico" sizes="any" />
+        <ChatWidget />
       </head>
       <main>
         <body className={inter.className}>
