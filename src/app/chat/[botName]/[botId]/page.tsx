@@ -32,7 +32,11 @@ export default async function Chat({ params: { botId, botName } }: Props) {
     }
 
     return (
-      <ChatContextProvider ssrThread={thread} ssrBotAI={ssrBotAI}>
+      <ChatContextProvider
+        ssrThread={thread}
+        ssrBotAI={ssrBotAI}
+        withMessageDelay={false}
+      >
         <Box sx={{ backgroundColor: "background.default" }}>
           <ChatPage />
         </Box>

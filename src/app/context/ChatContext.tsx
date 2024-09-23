@@ -12,7 +12,7 @@ export interface ChatContext {
   fullConversation: Message[];
   sendMessagesToAssistant: (message: string, path?: string) => void;
   isAssistantTyping: boolean;
-  botInfo: Ai
+  botInfo: Ai;
 }
 
 export const ChatContext = createContext<ChatContext | null>(null);
@@ -20,10 +20,16 @@ export const ChatContext = createContext<ChatContext | null>(null);
 interface Props {
   ssrThread: string;
   ssrBotAI: Ai;
+  withMessageDelay: boolean;
   children: React.ReactNode;
 }
 
-const ChatContextProvider = ({ children, ssrThread, ssrBotAI }: Props) => {
+const ChatContextProvider = ({
+  children,
+  ssrThread,
+  ssrBotAI,
+  withMessageDelay = true,
+}: Props) => {
   const [fullConversation, setFullConversation] = useState<Message[]>([]);
   const [isAssistantTyping, setIsAssistantTyping] = useState<boolean>(false);
   const delay = (s: number) =>
@@ -45,7 +51,7 @@ const ChatContextProvider = ({ children, ssrThread, ssrBotAI }: Props) => {
       setFullConversation((oldMessages) => oldMessages.concat(userMessage));
       const newMessageResponse = await sendMessage({
         messages: [userMessage],
-        botId: ssrBotAI.id
+        botId: ssrBotAI.id,
       });
 
       const message = cleanMessage(newMessageResponse.text);
@@ -53,11 +59,16 @@ const ChatContextProvider = ({ children, ssrThread, ssrBotAI }: Props) => {
       const messages = message.split("[br]");
 
       setTimeout(async () => {
-        setIsAssistantTyping(true);
+        if (withMessageDelay) {
+          setIsAssistantTyping(true);
+        }
 
         for (let i = 0; i < messages.length; i++) {
           if (messages[i].length > 0) {
-            await delay(messages[i].length * 0.1);
+            if (withMessageDelay) {
+              await delay(messages[i].length * 0.1);
+            }
+
             const assistantMessage: Message = {
               id: -1,
               createdAt: new Date(),
@@ -70,7 +81,10 @@ const ChatContextProvider = ({ children, ssrThread, ssrBotAI }: Props) => {
             );
           }
         }
-        setIsAssistantTyping(false);
+
+        if (withMessageDelay) {
+          setIsAssistantTyping(false);
+        }
       }, CHAT_MESSAGE_DELAY);
     } catch (e: any) {
       console.error(e);
@@ -83,7 +97,7 @@ const ChatContextProvider = ({ children, ssrThread, ssrBotAI }: Props) => {
         sendMessagesToAssistant,
         isAssistantTyping,
         fullConversation,
-        botInfo: ssrBotAI
+        botInfo: ssrBotAI,
       }}
     >
       {children}

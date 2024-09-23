@@ -7,6 +7,7 @@ const nextConfig = {
   transpilePackages: ["mui-color-input"],
   env: {
     // variables de entorno
+    API_URL: process.env.API_URL,
   },
 };
 
